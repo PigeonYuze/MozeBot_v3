@@ -15,7 +15,7 @@
 
 由其 `README` 你将知道
   - 墨泽酱**不会支持**任何和金钱相关的操作
-  - 墨泽酱**不会涉**及诸如“点赞”等功能
+  - 墨泽酱**不会涉及**诸如“点赞”等功能
   - 墨泽酱**不会主动**进行加群操作，同样的，也不会主动添加好友
   - 墨泽酱为**完全免费**的，**所有源代码您**都可以在`github`上找到
 
@@ -60,8 +60,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ### 特别鸣谢
 *(以下排名不分先后顺序)*
 
-- [OMGCA](https://github.com/OMGCA/)
 - [Teeth](https://mirai.mamoe.net/user/teeth)
+- [OMGCA](https://github.com/OMGCA/)
 - [LaoLittle](https://github.com/LaoLittle/)
 - [PigeonYuze](https://github.com/PigeonYuze/)
 
