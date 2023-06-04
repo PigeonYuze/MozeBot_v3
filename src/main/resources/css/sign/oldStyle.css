@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  background-color: #f0f0f0;
+  background-repeat: no-repeat;
+}
+
+.banner {
+  height: 200px;
+  background-color: #0c2140;
+  position: relative;
+  overflow: hidden;
+}
+
+.circle {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, .05), rgba(255, 255, 255, .1));
+  border-radius: 50%;
+}
+
+.circle-1 {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+
+.circle-2 {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: 100px;
+  left: 40px;
+}
+
+.circle-3 {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: -50px;
+  left: 250px;
+}
+
+.circle-4 {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  background-color: white;
+  opacity: 0.5;
+  z-index: 10;
+  border-radius: 50%;
+}
+
+.image {
+  position: absolute;
+  bottom: 60px;
+  left: 60px;
+}
+
+.image img {
+  width: 400px;
+}
+
+.text {
+  position: absolute;
+  font-family: Arial, sans-serif;
+  font-size: 60px;
+  color: white;
+  top: 60px;
+  right: 60px;
+}
+
+.progress {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  height: 20px;
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.bar {
+  height: 100%;
+  width: 0%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.mark {
+  height: 100%;
+  position: absolute;
+  left: calc((var(--value) / var(--max)) * 100%);
+  top: 0;
+  width: 5px;
+  background-color: white;
+}
+
+.sun-moon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  height: 50px;
+  width: 50px;
+}
+
+body.day .sun-moon {
+  background-color: #ffc107;
+  border-radius: 50%;
+  box-shadow: 0 0 30px #ffa000, 0 0 20px #ffca28, 0 0 10px #ffd54f;
+}
+
+body.night .sun-moon {
+  background-color: #e0e0e0;
+  border-radius: 50%;
+  box-shadow: 0 0 30px #9e9e9e, 0 0 20px #bdbdbd, 0 0 10px #e0e0e0;
+}
+
+body.night .sun-moon::before,
+body.night .sun-moon::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body.night .sun-moon::before {
+  background-color: #e0e0e0;
+  height: 10px;
+  width: 30px;
+  border-radius: 5px;
+}
+
+body.night .sun-moon::after {
+  background-color: #f5f5f5;
+  box-shadow: 0 0 5px #bdbdbd, 0 0 3px #e0e0e0;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+}

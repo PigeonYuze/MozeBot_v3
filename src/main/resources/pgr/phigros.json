@@ -1,0 +1,6345 @@
+[
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 140.0,
+    "songAuthor": "SunsetRay",
+    "illustration": "艾若拉",
+    "masterName": "Glaciaxion",
+    "names": [
+      "glaciaxion",
+      "gla",
+      "骷髅头",
+      "第一首"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 1,
+        "destiny": 1.0,
+        "notes": 66
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman vs. NerSAN",
+        "hard": 12,
+        "destiny": 12.5,
+        "notes": 729
+      },
+      "HD": {
+        "chartAuthor": "Arenn Saki",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 418
+      }
+    },
+    "songLength": "2:43",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #643.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 120.0,
+    "songAuthor": "NceS",
+    "illustration": "海产",
+    "masterName": "Eradication Catastrophe",
+    "names": [
+      "eradication catastrophe",
+      "EC",
+      "ec",
+      "恶龙赶女孩"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 111
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 12,
+        "destiny": 12.7,
+        "notes": 593
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 319
+      }
+    },
+    "songLength": "2:06",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2362.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 179.0,
+    "songAuthor": "Frums",
+    "illustration": "Ctymax",
+    "masterName": "Credits",
+    "names": [
+      "credits",
+      "信用",
+      "frums",
+      "很多人都懒得拼Credits",
+      "有的"
+    ],
+    "unlock": "直接解锁",
+    "from": "BOFU2015",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 188
+      },
+      "IN": {
+        "chartAuthor": "Ctymax",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 535
+      },
+      "HD": {
+        "chartAuthor": "Ctymax",
+        "hard": 10,
+        "destiny": 10.4,
+        "notes": 355
+      }
+    },
+    "songLength": "1:40",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1141.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 175.0,
+    "songAuthor": "Likey",
+    "illustration": "DoublePian",
+    "masterName": "Dlyrotz",
+    "names": [
+      "dlyrotz",
+      "dly",
+      "过去的粪谱"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Su1fuR",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 279
+      },
+      "IN": {
+        "chartAuthor": "XMT小咩兔 vs Barbarianerman",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 584
+      },
+      "HD": {
+        "chartAuthor": "Su1fuR",
+        "hard": 9,
+        "destiny": 9.4,
+        "notes": 382
+      }
+    },
+    "songLength": "2:01",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #18.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 186.0,
+    "songAuthor": "CrossingSound",
+    "illustration": "赤芽",
+    "masterName": "Engine x Start!! (melody mix)",
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Arenn Saki&Catcats",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 126
+      },
+      "IN": {
+        "chartAuthor": "Arenn Saki&Catcats",
+        "hard": 13,
+        "destiny": 13.4,
+        "notes": 433
+      },
+      "HD": {
+        "chartAuthor": "Arenn Saki&Catcats",
+        "hard": 10,
+        "destiny": 10.5,
+        "notes": 262
+      }
+    },
+    "songLength": "1:31",
+    "names": [
+      "engine x start"
+    ],
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1055.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 180.0,
+    "songAuthor": "姜米條",
+    "illustration": "winder",
+    "masterName": "光",
+    "names": [
+      "双压*114514"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Catcats & 百九十八",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 249
+      },
+      "IN": {
+        "chartAuthor": "Catcats & 百九十八",
+        "hard": 12,
+        "destiny": 12.8,
+        "notes": 517
+      },
+      "HD": {
+        "chartAuthor": "Catcats & 百九十八",
+        "hard": 8,
+        "destiny": 8.4,
+        "notes": 453
+      }
+    },
+    "songLength": "2:11",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #634.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 104.0,
+    "songAuthor": "Ctymax feat. NceS",
+    "illustration": "翠冷兮",
+    "masterName": "Winter↑cube↓",
+    "names": [
+      "WC",
+      "冬方块",
+      "哲学",
+      "wintercube"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "小鹏 fixed by Barbarianerman",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 401
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 13,
+        "destiny": 13.4,
+        "notes": 733
+      },
+      "HD": {
+        "chartAuthor": "小鹏 fixed by Barbarianerman",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 696
+      }
+    },
+    "songLength": "2:35",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #41.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 180.0,
+    "songAuthor": "OnlyMyBlackScore",
+    "illustration": "L-sp4",
+    "masterName": "混乱-Confusion",
+    "names": [
+      "混乱-confusion",
+      "混乱"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "月下樱&115",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 290
+      },
+      "IN": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 978
+      },
+      "HD": {
+        "chartAuthor": "月下樱&115",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 602
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1227.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 179.0,
+    "songAuthor": "Tetrajectory feat. Ctymax",
+    "illustration": "IvyTowers",
+    "masterName": "Cipher : /2&//<|0",
+    "names": [],
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 380
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman feat. Gausbon",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 1041
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM",
+        "hard": 9,
+        "destiny": 9.7,
+        "notes": 526
+      }
+    },
+    "songLength": "2:34",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1888.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 145.0,
+    "songAuthor": "MYUKKE.",
+    "illustration": "ViscerA & Psycholine",
+    "masterName": "FULi AUTO SHOOTER",
+    "names": [
+      "福利自动射",
+      "fuli",
+      "fuli auto shooter",
+      "曾经的最水15"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "AUTO. SHOOTER.",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 165
+      },
+      "IN": {
+        "chartAuthor": "AUTO. SHOOTER. fixed by Ctymax",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 843
+      },
+      "HD": {
+        "chartAuthor": "AUTO. SHOOTER.",
+        "hard": 11,
+        "destiny": 11.3,
+        "notes": 537
+      }
+    },
+    "songLength": "2:09",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1341.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 180.0,
+    "songAuthor": "SOTUI",
+    "illustration": "CH",
+    "masterName": "HumaN",
+    "names": [
+      "人",
+      "人类",
+      "human",
+      "Namuh"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 182
+      },
+      "IN": {
+        "chartAuthor": "CN_115+TangScend",
+        "hard": 12,
+        "destiny": 12.6,
+        "notes": 554
+      },
+      "HD": {
+        "chartAuthor": "阿爽",
+        "hard": 8,
+        "destiny": 8.8,
+        "notes": 382
+      }
+    },
+    "songLength": "2:14",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #615.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 210.0,
+    "songAuthor": "BlueWind",
+    "illustration": "老张",
+    "masterName": "[PRAW]",
+    "names": [
+      "praw"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 419
+      },
+      "IN": {
+        "chartAuthor": "晨 vs. 阿爽",
+        "hard": 15,
+        "destiny": 15.1,
+        "notes": 1171
+      },
+      "HD": {
+        "chartAuthor": "阿爽",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 692
+      }
+    },
+    "songLength": "2:36",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #598.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 175.0,
+    "songAuthor": "SunsetRay/NceS",
+    "illustration": "IvyTowers",
+    "masterName": "Cereris",
+    "names": [
+      "cereris",
+      "科目二",
+      "您",
+      "您.jpg",
+      "飙车",
+      "我我我我您您您您",
+      "您您您您我我我我"
+    ],
+    "unlock": "直接解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Su1fuR",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 470
+      },
+      "IN": {
+        "chartAuthor": "StupiGGy",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 898
+      },
+      "HD": {
+        "chartAuthor": "Su1fuR",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 703
+      }
+    },
+    "songLength": "2:47",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1490.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 150.0,
+    "songAuthor": "Normal1zer",
+    "illustration": "艾是Abby",
+    "masterName": "Pixel Rebelz",
+    "names": [
+      "pixel rebelz",
+      "pr",
+      "劲爆多压"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 250
+      },
+      "IN": {
+        "chartAuthor": "NerSAN",
+        "hard": 15,
+        "destiny": 15.1,
+        "notes": 941
+      },
+      "HD": {
+        "chartAuthor": "阿爽",
+        "hard": 11,
+        "destiny": 11.9,
+        "notes": 698
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #320.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 205.0,
+    "songAuthor": "Normal1zer",
+    "illustration": "cycats",
+    "masterName": "Non-Melodic Ragez(MUG Edit)",
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Clutter",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 221
+      },
+      "IN": {
+        "chartAuthor": "分化者 fixed by Barbarianerman",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1235
+      },
+      "HD": {
+        "chartAuthor": "Clutter",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 604
+      }
+    },
+    "songLength": "2:19",
+    "names": [
+      "non-melodic ragez",
+      "NMR",
+      "nmr",
+      "你骂人"
+    ],
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1279.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 155.0,
+    "songAuthor": "MonstDeath",
+    "illustration": "笔记RE",
+    "masterName": "Sultan Rage",
+    "names": [
+      "愤怒苏丹",
+      "苏丹的愤怒",
+      "苏丹"
+    ],
+    "unlock": "直接解锁",
+    "from": "Phigros首发 Remix版被收录于Dance Rail",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 159
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 12,
+        "destiny": 12.5,
+        "notes": 485
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 8,
+        "destiny": 8.5,
+        "notes": 334
+      }
+    },
+    "songLength": "1:56",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1414.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 145.0,
+    "songAuthor": "Antistar feat. Ctymax",
+    "illustration": "xperz",
+    "masterName": "Class Memories",
+    "names": [
+      "交互课堂",
+      "上课记忆"
+    ],
+    "unlock": "直接解锁",
+    "from": "Phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 612
+      },
+      "IN": {
+        "chartAuthor": "JKy",
+        "hard": 13,
+        "destiny": 13.5,
+        "notes": 1194
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM",
+        "hard": 10,
+        "destiny": 10.4,
+        "notes": 801
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #369.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 180.0,
+    "songAuthor": "Itsuki",
+    "illustration": "喵n葵",
+    "masterName": "-SURREALISM-",
+    "names": [
+      "SURREALISM",
+      "超现实主义"
+    ],
+    "unlock": "直接解锁",
+    "from": "曲师Itsuki所作曲目",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Su1fuR",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 302
+      },
+      "IN": {
+        "chartAuthor": "-StupiGGy- fixed by 晨",
+        "hard": 13,
+        "destiny": 13.4,
+        "notes": 914
+      },
+      "HD": {
+        "chartAuthor": "Su1fuR",
+        "hard": 9,
+        "destiny": 9.4,
+        "notes": 532
+      }
+    },
+    "songLength": "2:33",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #377.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 180.0,
+    "songAuthor": "Megalo_PaleWhite",
+    "illustration": "笔记RE",
+    "masterName": "Bonus Time",
+    "names": [
+      "奖励时间",
+      "BT",
+      "变态时间"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Uvernight fixed by Barbarianerman",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 190
+      },
+      "IN": {
+        "chartAuthor": "Uvernight fixed by 百九十八",
+        "hard": 14,
+        "destiny": 14.2,
+        "notes": 689
+      },
+      "HD": {
+        "chartAuthor": "Uvernight fixed by Barbarianerman",
+        "hard": 9,
+        "destiny": 9.3,
+        "notes": 319
+      }
+    },
+    "songLength": "1:55",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2311.png"
+  },
+  {
+    "chapter": "Chapter Legacy 过去的章节",
+    "bpm": 160.0,
+    "songAuthor": "Tanchiky",
+    "illustration": "Karameru",
+    "masterName": "ENERGY SYNERGY MATRIX",
+    "names": [
+      "esm",
+      "esm跑",
+      "神经猫"
+    ],
+    "unlock": "直接解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Su1fuR",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 190
+      },
+      "IN": {
+        "chartAuthor": "B B M pow",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 750
+      },
+      "HD": {
+        "chartAuthor": "Su1fuR",
+        "hard": 11,
+        "destiny": 11.5,
+        "notes": 468
+      }
+    },
+    "songLength": "2:05",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #704.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 154.0,
+    "songAuthor": "FLuoRiTe/姜米條",
+    "illustration": "NEKO&海产",
+    "masterName": "NYA!!!(Phigros ver.)",
+    "names": ["NYA"],
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "HCC!!!",
+        "hard": 2,
+        "destiny": 2.0,
+        "notes": 122
+      },
+      "IN": {
+        "chartAuthor": "HCC!!!",
+        "hard": 12,
+        "destiny": 12.9,
+        "notes": 666
+      },
+      "HD": {
+        "chartAuthor": "HCC!!!",
+        "hard": 8,
+        "destiny": 8.6,
+        "notes": 428
+      }
+    },
+    "songLength": "2:35",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #2209.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 164.0,
+    "songAuthor": "1N6Fs",
+    "illustration": "IvyTowers",
+    "masterName": "JunXion Between Life And Death(VIP Mix)",
+    "names": [
+      "JunXion Between Life And Death",
+      "俊雄半死不活",
+      "半死不活",
+      "俊雄"
+    ],
+    "unlock": "NYA!!!(Phigros ver.) 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "鲲&百九十八",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 262
+      },
+      "IN": {
+        "chartAuthor": "鲲&百九十八",
+        "hard": 13,
+        "destiny": 13.3,
+        "notes": 722
+      },
+      "HD": {
+        "chartAuthor": "鲲&百九十八",
+        "hard": 8,
+        "destiny": 8.7,
+        "notes": 593
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #186.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 180.0,
+    "songAuthor": "Ju_E",
+    "illustration": "Haight",
+    "masterName": "cryout",
+    "names": [
+      "出去哭",
+      "哭出来",
+      "滚出去哭",
+      "困锁"
+    ],
+    "unlock": "JunXion Between Life And Death(VIP Mix) 任意等级达到 A 评分解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 221
+      },
+      "IN": {
+        "chartAuthor": "Ctymax",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 733
+      },
+      "HD": {
+        "chartAuthor": "Ctymax",
+        "hard": 9,
+        "destiny": 9.9,
+        "notes": 529
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1435.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 185.0,
+    "songAuthor": "影虎。",
+    "illustration": "英英英",
+    "masterName": "Reimei",
+    "names": [
+      "景虎",
+      "影虎"
+    ],
+    "unlock": "cryout 任意等级达到 A 评分解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 325
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 15,
+        "destiny": 15.1,
+        "notes": 983
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 11,
+        "destiny": 11.9,
+        "notes": 644
+      }
+    },
+    "songLength": "2:28",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1143.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 152.0,
+    "songAuthor": "rider",
+    "illustration": "1B",
+    "masterName": "尊師 ～The Guru～",
+    "names": [
+      "尊师",
+      "The Guru"
+    ],
+    "unlock": "Reimei 任意等级达到 A 评分解锁",
+    "from": "BOFU2017",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 180
+      },
+      "IN": {
+        "chartAuthor": "奥術 ~The Empery~",
+        "hard": 15,
+        "destiny": 15.2,
+        "notes": 738
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 346
+      }
+    },
+    "songLength": "2:05",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1534.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 200.0,
+    "songAuthor": "姜米條☆颶風~♫元力上人♫",
+    "illustration": "昔璃☆暴雨~♫危難聖帝♫",
+    "masterName": "Spasmodic",
+    "names": [
+      "spasmodic",
+      "粉发小女孩",
+      "痉挛"
+    ],
+    "unlock": "尊師 ～The Guru～ 任意等级达到 A 评分解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "無極☆雷鳴~♫死の序曲♫",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 637
+      },
+      "IN": {
+        "chartAuthor": "無極☆雷鳴~♫死の序曲♫",
+        "hard": 15,
+        "destiny": 15.2,
+        "notes": 1389
+      },
+      "AT": {
+        "chartAuthor": "無極☆雷鳴~♫死の序曲♫",
+        "hard": 16,
+        "destiny": 16.3,
+        "notes": 1671
+      },
+      "HD": {
+        "chartAuthor": "無極☆雷鳴~♫死の序曲♫",
+        "hard": 12,
+        "destiny": 12.6,
+        "notes": 904
+      }
+    },
+    "songLength": "2:34",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1398.png"
+  },
+  {
+    "chapter": "Chapter 5 霓虹灯牌",
+    "bpm": 150.0,
+    "songAuthor": "rider",
+    "illustration": "笔记RE",
+    "masterName": "Leave All Behind",
+    "names": [
+      "lab",
+      "纪念曲",
+      "前游戏封面"
+    ],
+    "unlock": "Spasmodic 任意等级达到 A 评分解锁",
+    "from": "phigros百万下载量纪念曲（phigros独占曲）",
+    "level": {
+      "EZ": {
+        "chartAuthor": "亚树见希子 & 百九十八",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 210
+      },
+      "IN": {
+        "chartAuthor": "亚树见希子 & 百九十八",
+        "hard": 12,
+        "destiny": 12.7,
+        "notes": 523
+      },
+      "HD": {
+        "chartAuthor": "亚树见希子 & 百九十八",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 394
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #66.png"
+  },
+  {
+    "chapter": "Chapter 6 方舟蜃景",
+    "bpm": 136.0,
+    "songAuthor": "P4koo feat. つゆり花鈴",
+    "illustration": "Doro-nyong & Ratif",
+    "masterName": "Colorful Days♪",
+    "names": [
+      "colorful days♪",
+      "Colorful Days",
+      "多彩的日子",
+      "多日"
+    ],
+    "unlock": "直接解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿♪爽",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 156
+      },
+      "IN": {
+        "chartAuthor": "阿♪爽",
+        "hard": 12,
+        "destiny": 12.7,
+        "notes": 407
+      },
+      "HD": {
+        "chartAuthor": "阿♪爽",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 186
+      }
+    },
+    "songLength": "1:39",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1100.png"
+  },
+  {
+    "chapter": "Chapter 6 方舟蜃景",
+    "bpm": 172.0,
+    "songAuthor": "dandeless",
+    "illustration": "snake.ribs",
+    "masterName": "micro.wav",
+    "names": [
+      "微波炉",
+      "没力"
+    ],
+    "unlock": "Colorful Days♪ 任意等级达到 A 评分解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 196
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 649
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 459
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1836.png"
+  },
+  {
+    "chapter": "Chapter 6 方舟蜃景",
+    "bpm": 195.0,
+    "songAuthor": "姜米條",
+    "illustration": "昔璃&TNiK",
+    "masterName": "重生",
+    "names": [
+      "假AP"
+    ],
+    "unlock": "micro.wav 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 354
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 900
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 9,
+        "destiny": 9.3,
+        "notes": 650
+      }
+    },
+    "songLength": "2:23",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #582.png"
+  },
+  {
+    "chapter": "Chapter 6 方舟蜃景",
+    "bpm": 170.0,
+    "songAuthor": "MYUKKE.",
+    "illustration": "青鸟",
+    "masterName": "NO ONE YES MAN",
+    "names": [
+      "no one yes man",
+      "没一个是人",
+      "NOYM",
+      "没有一个男人"
+    ],
+    "unlock": "重生 任意等级达到 A 评分解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 394
+      },
+      "IN": {
+        "chartAuthor": "晨 vs. Ctymax",
+        "hard": 15,
+        "destiny": 15.4,
+        "notes": 844
+      },
+      "HD": {
+        "chartAuthor": "晨",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 612
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #360.png"
+  },
+  {
+    "chapter": "Chapter 6 方舟蜃景",
+    "bpm": 209.0,
+    "songAuthor": "Se-U-Ra",
+    "illustration": "鲸弑",
+    "masterName": "望影の方舟Six",
+    "names": [
+      "方舟",
+      "望影的方舟666",
+      "望淫方舟"
+    ],
+    "unlock": "NO ONE YES MAN 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲（首发）",
+    "level": {
+      "EZ": {
+        "chartAuthor": "六回目Traveler Scend",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 276
+      },
+      "IN": {
+        "chartAuthor": "六回目Traveler Scend as \"Knight of Arq\"",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 1066
+      },
+      "HD": {
+        "chartAuthor": "六回目Traveler Scend",
+        "hard": 12,
+        "destiny": 12.9,
+        "notes": 526
+      }
+    },
+    "songLength": "1:52",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #788.png"
+  },
+  {
+    "chapter": "Chapter 6 方舟蜃景",
+    "bpm": 230.0,
+    "songAuthor": "Se-U-Ra",
+    "illustration": "Se-U-Ra",
+    "masterName": "Igallta",
+    "names": [
+      "iga",
+      "姐姐砍我",
+      "igallta"
+    ],
+    "unlock": "望影の方舟Six 任意等级达到 A 评分解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "信仰の剣『生』",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 414
+      },
+      "IN": {
+        "chartAuthor": "夜明の剣『靈』",
+        "hard": 15,
+        "destiny": 15.6,
+        "notes": 1018
+      },
+      "AT": {
+        "chartAuthor": "断罪の剣『神』",
+        "hard": 16,
+        "destiny": 16.7,
+        "notes": 1114
+      },
+      "HD": {
+        "chartAuthor": "平川の剣『士』",
+        "hard": 12,
+        "destiny": 12.7,
+        "notes": 601
+      }
+    },
+    "songLength": "2:02",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #313.png"
+  },
+  {
+    "chapter": "Chapter 7 时钟链接",
+    "bpm": 140.0,
+    "songAuthor": "WyvernP",
+    "illustration": "汉堡",
+    "masterName": "Clock Paradox",
+    "names": [
+      "clock paradox",
+      "时间悖论",
+      "时悖",
+      "CP"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman vs. Alloces",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 188
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman vs. Alloces",
+        "hard": 12,
+        "destiny": 12.6,
+        "notes": 520
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman vs. Alloces",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 312
+      }
+    },
+    "songLength": "2:30",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2357.png"
+  },
+  {
+    "chapter": "Chapter 7 时钟链接",
+    "bpm": 180.0,
+    "songAuthor": "Hundotte",
+    "illustration": "幽灵星",
+    "masterName": "Chronologika",
+    "names": [
+      "chronologika",
+      "时序",
+      "乌鸦怪人",
+      "你游13.9"
+    ],
+    "unlock": "Clock Paradox 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "TimiTini",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 271
+      },
+      "IN": {
+        "chartAuthor": "Ctymax vs. Barbarianerman",
+        "hard": 13,
+        "destiny": 13.9,
+        "notes": 776
+      },
+      "HD": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 9,
+        "destiny": 9.8,
+        "notes": 456
+      }
+    },
+    "songLength": "2:14",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1110.png"
+  },
+  {
+    "chapter": "Chapter 7 时钟链接",
+    "bpm": 175.0,
+    "songAuthor": "P4koo",
+    "illustration": "青鸟",
+    "masterName": "Nick of Time",
+    "names": [
+      "nick of time",
+      "时隙"
+    ],
+    "unlock": "Chronologika 任意等级达到 A 评分解锁",
+    "from": "初出于OverRapid",
+    "level": {
+      "EZ": {
+        "chartAuthor": "晨 vs. XMT小咩兔",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 328
+      },
+      "IN": {
+        "chartAuthor": "NerSAN",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 745
+      },
+      "HD": {
+        "chartAuthor": "晨 vs. XMT小咩兔",
+        "hard": 8,
+        "destiny": 8.1,
+        "notes": 429
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #870.png"
+  },
+  {
+    "chapter": "Chapter 7 时钟链接",
+    "bpm": 227.0,
+    "songAuthor": "Lime",
+    "illustration": "inukoro",
+    "masterName": "Chronomia",
+    "names": [
+      "chronomia",
+      "天文钟"
+    ],
+    "unlock": "Nick of Time 任意等级达到 A 评分解锁",
+    "from": "BOFU2016",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Pcat",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 338
+      },
+      "IN": {
+        "chartAuthor": "时の希 & 百九十八",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 992
+      },
+      "HD": {
+        "chartAuthor": "Rikko",
+        "hard": 10,
+        "destiny": 11.1,
+        "notes": 663
+      }
+    },
+    "songLength": "2:26",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1038.png"
+  },
+  {
+    "chapter": "Chapter 7 时钟链接",
+    "bpm": 180.0,
+    "songAuthor": "SunsetRay",
+    "illustration": "老张",
+    "masterName": "Chronos Collapse - La Campanella",
+    "names": [
+      "la campanella",
+      "李斯特的钟",
+      "李斯特",
+      "钟魔王",
+      "砸钟派对",
+      "Chronos Collapse",
+      "La",
+      "拉"
+    ],
+    "unlock": "Chronomia 任意等级达到 A 评分解锁",
+    "from": "初出于DanceRail phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Pcat『Scatter』",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 350
+      },
+      "IN": {
+        "chartAuthor": "NerSAN vs. 阿爽『Collapse』",
+        "hard": 15,
+        "destiny": 15.9,
+        "notes": 1500
+      },
+      "HD": {
+        "chartAuthor": "阿爽『Destroy』",
+        "hard": 11,
+        "destiny": 11.2,
+        "notes": 773
+      }
+    },
+    "songLength": "2:33",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #464.png"
+  },
+  {
+    "chapter": "Chapter 7 时钟链接",
+    "bpm": 190.0,
+    "songAuthor": "Team Grimoire",
+    "illustration": "犀牛坨动画工坊",
+    "masterName": "Rrhar'il",
+    "names": [
+      "rrhar il",
+      "rr",
+      "Rr",
+      "魔王曲",
+      "猫娘"
+    ],
+    "unlock": "Chronos Collapse - La Campanella 任意等级达到 A 评分解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "RDRT -p 19:08:31",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 446
+      },
+      "IN": {
+        "chartAuthor": "RDRT -p 20:08:31",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 1300
+      },
+      "AT": {
+        "chartAuthor": "RWND -p 16493:62786:92551",
+        "hard": 16,
+        "destiny": 16.8,
+        "notes": 1300
+      },
+      "HD": {
+        "chartAuthor": "RDRT -p 20:02:21",
+        "hard": 12,
+        "destiny": 12.7,
+        "notes": 700
+      }
+    },
+    "songLength": "2:12",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1593.png"
+  },
+  {
+    "chapter": "Chapter 8 凌日潮汐",
+    "bpm": 150.0,
+    "songAuthor": "LandRoot",
+    "illustration": "笔记RE",
+    "masterName": "Crave Wave",
+    "names": [],
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Likey",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 177
+      },
+      "IN": {
+        "chartAuthor": "Likey feat. 198",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 816
+      },
+      "HD": {
+        "chartAuthor": "Likey",
+        "hard": 8,
+        "destiny": 8.2,
+        "notes": 396
+      }
+    },
+    "songLength": "2:08",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #3164.png"
+  },
+  {
+    "chapter": "Chapter 8 凌日潮汐",
+    "bpm": 190.0,
+    "songAuthor": "Attoclef",
+    "illustration": "翠冷兮",
+    "masterName": "The Chariot ~REVIIVAL~",
+    "names": [],
+    "unlock": "Crave Wave 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 520
+      },
+      "IN": {
+        "chartAuthor": "Ctymax drives in BlindForest",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 1009
+      },
+      "HD": {
+        "chartAuthor": "Alloces",
+        "hard": 10,
+        "destiny": 10.2,
+        "notes": 660
+      }
+    },
+    "songLength": "2:26",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #3305.png"
+  },
+  {
+    "chapter": "Chapter 8 凌日潮汐",
+    "bpm": 184.0,
+    "songAuthor": "米虾Fomiki & 初云CLoudie",
+    "illustration": "子狼",
+    "masterName": "Luminescence",
+    "names": [],
+    "unlock": "The Chariot ~REVIIVAL~ 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 443
+      },
+      "IN": {
+        "chartAuthor": "Pcat & 百九十八",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 987
+      },
+      "HD": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 11,
+        "destiny": 11.2,
+        "notes": 689
+      }
+    },
+    "songLength": "2:35",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #2264.png"
+  },
+  {
+    "chapter": "Chapter 8 凌日潮汐",
+    "bpm": 190.0,
+    "songAuthor": "nm-y & Kry.exe",
+    "illustration": "NerSAN",
+    "masterName": "Retribution",
+    "names": [],
+    "unlock": "Luminescence 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "NerSAN",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 555
+      },
+      "IN": {
+        "chartAuthor": "Ner as \"SPΔDE\"",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1358
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 868
+      }
+    },
+    "songLength": "2:25",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Sprite\\Illustration #1465.png"
+  },
+  {
+    "chapter": "Chapter 8 凌日潮汐",
+    "bpm": 321.321,
+    "songAuthor": "Normal1zer vs. Broken Nerdz",
+    "illustration": "rN",
+    "masterName": "DESTRUCTION 3,2,1",
+    "names": [],
+    "unlock": "Retribution 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "{Demolition,Devastation,Destruction} ",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 1060
+      },
+      "IN": {
+        "chartAuthor": "{Destruction}",
+        "hard": 15,
+        "destiny": 15.9,
+        "notes": 1532
+      },
+      "AT": {
+        "chartAuthor": "∅",
+        "hard": 16,
+        "destiny": 16.6,
+        "notes": 2330
+      },
+      "HD": {
+        "chartAuthor": "{Devastation,Destruction}",
+        "hard": 12,
+        "destiny": 12.9,
+        "notes": 1250
+      }
+    },
+    "songLength": "2:38",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #3296.png"
+  },
+  {
+    "chapter": "Chapter 8 凌日潮汐",
+    "bpm": 150.0,
+    "songAuthor": "Sakuzyo",
+    "illustration": "knife美工刀",
+    "masterName": "Distorted Fate",
+    "names": [],
+    "unlock": "DESTRUCTION 3,2,1 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "De Fiance",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 594
+      },
+      "IN": {
+        "chartAuthor": "Divination Fortune",
+        "hard": 15,
+        "destiny": 15.9,
+        "notes": 1449
+      },
+      "AT": {
+        "chartAuthor": "unDefined Future",
+        "hard": 16,
+        "destiny": 16.7,
+        "notes": 1283
+      },
+      "HD": {
+        "chartAuthor": "Doubt Ful",
+        "hard": 12,
+        "destiny": 12.9,
+        "notes": 970
+      }
+    },
+    "songLength": "2:42",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Sprite\\Illustration #2908.png"
+  },
+  {
+    "chapter": "Side Story 1 忘忧宫",
+    "bpm": 175.0,
+    "songAuthor": "1112 vs. Star*",
+    "illustration": "老张",
+    "masterName": "Ποσειδών",
+    "names": [
+      "波塞冬",
+      "分数美学太多了"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Jαckψ a.k.a JKy",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 533
+      },
+      "IN": {
+        "chartAuthor": "Jαckψ feat. Βαρβαροςαντρας",
+        "hard": 12,
+        "destiny": 12.8,
+        "notes": 450
+      },
+      "HD": {
+        "chartAuthor": "Jαckψ",
+        "hard": 8,
+        "destiny": 8.4,
+        "notes": 397
+      }
+    },
+    "songLength": "2:03",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #545.png"
+  },
+  {
+    "chapter": "Side Story 1 忘忧宫",
+    "bpm": 170.0,
+    "songAuthor": "A-39/沙包P",
+    "illustration": "knife美工刀",
+    "masterName": "WATER",
+    "names": [
+      "水",
+      "氵"
+    ],
+    "unlock": "Ποσειδών 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "急流に巻き込まれ",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 338
+      },
+      "IN": {
+        "chartAuthor": "乱流に巻き込まれ",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 643
+      },
+      "HD": {
+        "chartAuthor": "対流に巻き込まれ",
+        "hard": 9,
+        "destiny": 9.4,
+        "notes": 703
+      }
+    },
+    "songLength": "2:36",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #217.png"
+  },
+  {
+    "chapter": "Side Story 1 忘忧宫",
+    "bpm": 192.0,
+    "songAuthor": "Rinth_live",
+    "illustration": "L-sp4",
+    "masterName": "Miracle Forest (VIP Mix)",
+    "names": [
+      "Miracle Forest",
+      "油条森林",
+      "油条",
+      "读谱森林"
+    ],
+    "unlock": "WATER 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "奇跡の希",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 323
+      },
+      "IN": {
+        "chartAuthor": "奇跡の希 feat. 奇跡の従",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 839
+      },
+      "HD": {
+        "chartAuthor": "奇跡の希",
+        "hard": 9,
+        "destiny": 9.8,
+        "notes": 586
+      }
+    },
+    "songLength": "2:50",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2329.png"
+  },
+  {
+    "chapter": "Side Story 1 忘忧宫",
+    "bpm": 144.0,
+    "songAuthor": "Dachs",
+    "illustration": "わっふゑ",
+    "masterName": "MOBILYS",
+    "names": [
+      "小夜灯",
+      "海底房"
+    ],
+    "unlock": "Miracle Forest (VIP Mix) 任意等级达到 A 评分解锁",
+    "from": "BOFXV",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 311
+      },
+      "IN": {
+        "chartAuthor": "StupiGGy vs. 百九十八 ft. 野从",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 938
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 9,
+        "destiny": 9.7,
+        "notes": 530
+      }
+    },
+    "songLength": "2:43",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1685.png"
+  },
+  {
+    "chapter": "Side Story 1 忘忧宫",
+    "bpm": 177.0,
+    "songAuthor": "ユメミド",
+    "illustration": "何呵",
+    "masterName": "Lyrith -迷宮リリス-",
+    "names": [
+      "草先生的完美迷宫",
+      "迷宫莉莉丝",
+      "莉莉丝",
+      "迷宫"
+    ],
+    "unlock": "MOBILYS 任意等级达到 A 评分解锁",
+    "from": "BOFU2016",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Arenn Saki as \"mAze\"",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 248
+      },
+      "IN": {
+        "chartAuthor": "Arenn Saki as \"lAβyrinS\"",
+        "hard": 15,
+        "destiny": 15.9,
+        "notes": 1122
+      },
+      "AT": {
+        "chartAuthor": "CN_115 as \"prediCameNt\"",
+        "hard": 16,
+        "destiny": 16.2,
+        "notes": 1236
+      },
+      "HD": {
+        "chartAuthor": "Arenn Saki as \"myStery\"",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 700
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1210.png"
+  },
+  {
+    "chapter": "Side Story 2 弭刻日",
+    "bpm": 111.0,
+    "songAuthor": "Rabpit",
+    "illustration": "青鸟",
+    "masterName": "Demiurge",
+    "names": [
+      "造物主"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "\"Manufacturer\" ~ Rikko",
+        "hard": 1,
+        "destiny": 1.5,
+        "notes": 100
+      },
+      "IN": {
+        "chartAuthor": "\"Demiurge\" ~ Dawn",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 520
+      },
+      "HD": {
+        "chartAuthor": "\"Creator\" ~ StupiGGy",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 445
+      }
+    },
+    "songLength": "2:49",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #125.png"
+  },
+  {
+    "chapter": "Side Story 2 弭刻日",
+    "bpm": 192.0,
+    "songAuthor": "Forged Reigns",
+    "illustration": "Jeffery",
+    "masterName": "Demonkin",
+    "names": [
+      "消除",
+      "emo"
+    ],
+    "unlock": "Demiurge 任意等级达到 A 评分解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Alloces",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 426
+      },
+      "IN": {
+        "chartAuthor": "Sillyp & Alloces",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 829
+      },
+      "HD": {
+        "chartAuthor": "Alloces",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 513
+      }
+    },
+    "songLength": "2:18",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #44.png"
+  },
+  {
+    "chapter": "Side Story 2 弭刻日",
+    "bpm": 150.0,
+    "songAuthor": "Rinth_live",
+    "illustration": "Tsuioku",
+    "masterName": "Re_Nascence (Psystyle Ver.)",
+    "names": [
+      "Re Nascence",
+      "ren",
+      "洗衣液广告"
+    ],
+    "unlock": "Demonkin 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "NerSAN",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 378
+      },
+      "IN": {
+        "chartAuthor": "NerSAN & 百九十八",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 827
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 806
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2285.png"
+  },
+  {
+    "chapter": "Side Story 2 弭刻日",
+    "bpm": 180.0,
+    "songAuthor": "kanoryo",
+    "illustration": "MOAI WORKS",
+    "masterName": "Ark",
+    "names": [],
+    "unlock": "Re_Nascence (Psystyle Ver.) 任意等级达到 A 评分解锁",
+    "from": "BOFU2017",
+    "level": {
+      "EZ": {
+        "chartAuthor": "TimiTini",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 290
+      },
+      "IN": {
+        "chartAuthor": "阿爽 eat Ctymax",
+        "hard": 15,
+        "destiny": 15.1,
+        "notes": 726
+      },
+      "HD": {
+        "chartAuthor": "TimiTini",
+        "hard": 10,
+        "destiny": 10.9,
+        "notes": 523
+      }
+    },
+    "songLength": "2:38",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #411.png"
+  },
+  {
+    "chapter": "Side Story 2 弭刻日",
+    "bpm": 110.0,
+    "songAuthor": "S9ryne",
+    "illustration": "月亮酱",
+    "masterName": "After Dawn",
+    "names": [
+      "ad",
+      "ad钙",
+      "会员制"
+    ],
+    "unlock": "Ark 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 194
+      },
+      "IN": {
+        "chartAuthor": "BarbariaNerSAN feat. Snorkel",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 975
+      },
+      "HD": {
+        "chartAuthor": "NerSAN feat. Pcat",
+        "hard": 11,
+        "destiny": 11.1,
+        "notes": 478
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1887.png"
+  },
+  {
+    "chapter": "Side Story 2 弭刻日",
+    "bpm": 180.0,
+    "songAuthor": "Reku Mochizuki",
+    "illustration": "knife美工刀",
+    "masterName": "INFiNiTE ENERZY -Overdoze-",
+    "names": [
+      "ieo",
+      "无限能量"
+    ],
+    "unlock": "After Dawn 任意等级达到 A 评分解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "while(TangScend<=TangScend);",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 333
+      },
+      "IN": {
+        "chartAuthor": "while(TangScend==TangScend);",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 888
+      },
+      "AT": {
+        "chartAuthor": "while(TangScend=TangScend);",
+        "hard": 16,
+        "destiny": 16.3,
+        "notes": 888
+      },
+      "HD": {
+        "chartAuthor": "while(TangScend>=TangScend);",
+        "hard": 12,
+        "destiny": 12.4,
+        "notes": 666
+      }
+    },
+    "songLength": "1:57",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #0.png"
+  },
+  {
+    "chapter": "Chapter EX-Rising Sun Traxx 精选集",
+    "bpm": 175.0,
+    "songAuthor": "Neutral Moon",
+    "illustration": "IvyTowers",
+    "masterName": "Another Me",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Another M3",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 111
+      },
+      "IN": {
+        "chartAuthor": "NerSAN",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 564
+      },
+      "HD": {
+        "chartAuthor": "Another M3",
+        "hard": 9,
+        "destiny": 9.2,
+        "notes": 259
+      }
+    },
+    "songLength": "2:19",
+    "names": [
+      "Another Me1",
+      "Another Me13",
+      "oldAnother Me",
+      "Another Me RST"
+    ],
+    "unlock": "默认解锁",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1847.png"
+  },
+  {
+    "chapter": "Chapter EX-Rising Sun Traxx 精选集",
+    "bpm": 172.0,
+    "songAuthor": "rareguy",
+    "illustration": "IvyTowers",
+    "masterName": "mechanted",
+    "names": [
+      "Mechanted",
+      "药丸",
+      "鸡关枪",
+      "篮球"
+    ],
+    "unlock": "Another Me 任意等级达到 A 评分解锁",
+    "from": "Rising Sun Traxx 供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 184
+      },
+      "IN": {
+        "chartAuthor": "Ctymax",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 662
+      },
+      "HD": {
+        "chartAuthor": "Ctymax",
+        "hard": 11,
+        "destiny": 11.3,
+        "notes": 500
+      }
+    },
+    "songLength": "1:55",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1912.png"
+  },
+  {
+    "chapter": "Chapter EX-Rising Sun Traxx 精选集",
+    "bpm": 227.0,
+    "songAuthor": "BilliumMoto",
+    "illustration": "百九十八",
+    "masterName": "life flashes before weeb eyes",
+    "names": [
+      "Life Flashes Before Weeb Eyes",
+      "s b",
+      "小黄歌",
+      "galgame"
+    ],
+    "unlock": "mechanted 任意等级达到 A 评分解锁",
+    "from": "Rising Sun Traxx 供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 567
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 1065
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 11,
+        "destiny": 11.9,
+        "notes": 960
+      }
+    },
+    "songLength": "2:36",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1370.png"
+  },
+  {
+    "chapter": "Chapter EX-Rising Sun Traxx 精选集",
+    "bpm": 176.0,
+    "songAuthor": "lixound",
+    "illustration": "Xquid",
+    "masterName": "Break Through The Barrier",
+    "names": [
+      "break through the barrier",
+      "BTTB",
+      "bttb",
+      "突破障碍"
+    ],
+    "unlock": "life flashes before weeb eyes 任意等级达到 A 评分解锁",
+    "from": "Rising Sun Traxx 供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Su1fuR",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 384
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 1090
+      },
+      "HD": {
+        "chartAuthor": "Su1fuR",
+        "hard": 10,
+        "destiny": 10.8,
+        "notes": 623
+      }
+    },
+    "songLength": "2:12",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1234.png"
+  },
+  {
+    "chapter": "Chapter EX-Rising Sun Traxx 精选集",
+    "bpm": 196.0,
+    "songAuthor": "黒皇帝",
+    "illustration": "Sand",
+    "masterName": "Chronostasis",
+    "names": [
+      "chronostasis",
+      "黑皇帝",
+      "黒皇帝",
+      "时停"
+    ],
+    "unlock": "Break Through The Barrier 任意等级达到 A 评分解锁",
+    "from": "BOFU2016",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Uvernight",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 596
+      },
+      "IN": {
+        "chartAuthor": "Gausbon",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1148
+      },
+      "HD": {
+        "chartAuthor": "Uvernight",
+        "hard": 11,
+        "destiny": 11.2,
+        "notes": 665
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1361.png"
+  },
+  {
+    "chapter": "Chapter EX-HyuN 精选集",
+    "bpm": 160.0,
+    "songAuthor": "HyuN",
+    "illustration": "DoublePian",
+    "masterName": "Infinity Heaven",
+    "names": [
+      "infinity heaven",
+      "无限天堂",
+      "天堂",
+      "蔬菜大棚"
+    ],
+    "unlock": "直接解锁",
+    "from": "BOFU2016",
+    "level": {
+      "EZ": {
+        "chartAuthor": "晨 vs 阿爽",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 164
+      },
+      "IN": {
+        "chartAuthor": "晨 vs 阿爽",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 1029
+      },
+      "HD": {
+        "chartAuthor": "晨 vs 阿爽",
+        "hard": 8,
+        "destiny": 8.4,
+        "notes": 422
+      }
+    },
+    "songLength": "2:34",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1617.png"
+  },
+  {
+    "chapter": "Chapter EX-HyuN 精选集",
+    "bpm": 193.0,
+    "songAuthor": "HyuN feat. YURI",
+    "illustration": "Nabom",
+    "masterName": "Disorder",
+    "names": [
+      "disorder",
+      "深海少女",
+      "紊乱"
+    ],
+    "unlock": "Infinity Heaven 任意等级达到 A 评分解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Gausbon",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 444
+      },
+      "IN": {
+        "chartAuthor": "Gausbon",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 918
+      },
+      "HD": {
+        "chartAuthor": "Gausbon",
+        "hard": 9,
+        "destiny": 9.8,
+        "notes": 629
+      }
+    },
+    "songLength": "2:14",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #812.png"
+  },
+  {
+    "chapter": "Chapter EX-HyuN 精选集",
+    "bpm": 200.0,
+    "songAuthor": "HyuN feat. Syepias",
+    "illustration": "knife美工刀",
+    "masterName": "CROSS†SOUL",
+    "names": [
+      "cross†soul",
+      "CROSS SOUL",
+      "穿魂",
+      "纵连天堂"
+    ],
+    "unlock": "Disorder 任意等级达到 A 评分解锁",
+    "from": "PABAT2017",
+    "level": {
+      "EZ": {
+        "chartAuthor": "無†極",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 517
+      },
+      "IN": {
+        "chartAuthor": "無†極",
+        "hard": 15,
+        "destiny": 15.9,
+        "notes": 1305
+      },
+      "HD": {
+        "chartAuthor": "無†極 fixed by Rikko",
+        "hard": 12,
+        "destiny": 12.8,
+        "notes": 892
+      }
+    },
+    "songLength": "2:19",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #540.png"
+  },
+  {
+    "chapter": "Chapter EX-GOOD精选集",
+    "bpm": 190.0,
+    "songAuthor": "EBIMAYO",
+    "illustration": "Ctymax feat. EBIMAYO",
+    "masterName": "GOODTEK",
+    "names": [
+      "好锤子",
+      "良锤",
+      "gt",
+      "锤子"
+    ],
+    "unlock": "直接解锁",
+    "from": "BOFU2015",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 295
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 13,
+        "destiny": 13.8,
+        "notes": 873
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 10,
+        "destiny": 10.8,
+        "notes": 609
+      }
+    },
+    "songLength": "2:05",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1708.png"
+  },
+  {
+    "chapter": "Chapter EX-GOOD精选集",
+    "bpm": 180.0,
+    "songAuthor": "EBIMAYO",
+    "illustration": "EBIMAYO",
+    "masterName": "GOODBOUNCE",
+    "names": [
+      "gb",
+      "跳得好",
+      "良弹"
+    ],
+    "unlock": "GOODTEK 任意等级达到 A 评分解锁",
+    "from": "BOFU2016",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Gausbounce & 晨",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 588
+      },
+      "IN": {
+        "chartAuthor": "Ctymax vs. Gausbounce",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 898
+      },
+      "HD": {
+        "chartAuthor": "Gausbounce",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 797
+      }
+    },
+    "songLength": "2:12",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #796.png"
+  },
+  {
+    "chapter": "Chapter EX-GOOD精选集",
+    "bpm": 165.0,
+    "songAuthor": "EBIMAYO",
+    "illustration": "EBIMAYO",
+    "masterName": "GOODWORLD",
+    "names": [
+      "gw",
+      "好世界",
+      "良界"
+    ],
+    "unlock": "GOODBOUNCE 任意等级达到 A 评分解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 215
+      },
+      "IN": {
+        "chartAuthor": "StupiGGy vs. 阿爽",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 960
+      },
+      "HD": {
+        "chartAuthor": "StupiGGy",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 805
+      }
+    },
+    "songLength": "2:11",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1299.png"
+  },
+  {
+    "chapter": "Chapter EX-GOOD精选集",
+    "bpm": 170.0,
+    "songAuthor": "EBIMAYO",
+    "illustration": "Ctymax",
+    "masterName": "GOODFORTUNE",
+    "names": [
+      "gf",
+      "好运来",
+      "良幸",
+      "好运气"
+    ],
+    "unlock": "GOODWORLD 任意等级达到 A 评分解锁",
+    "from": "BOFU2017",
+    "level": {
+      "EZ": {
+        "chartAuthor": "晨",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 455
+      },
+      "IN": {
+        "chartAuthor": "晨",
+        "hard": 15,
+        "destiny": 15.4,
+        "notes": 1011
+      },
+      "HD": {
+        "chartAuthor": "晨",
+        "hard": 8,
+        "destiny": 8.7,
+        "notes": 733
+      }
+    },
+    "songLength": "2:13",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1036.png"
+  },
+  {
+    "chapter": "Chapter EX-GOOD精选集",
+    "bpm": 222.0,
+    "songAuthor": "EBIMAYO",
+    "illustration": "Ctymax feat. EBIMAYO",
+    "masterName": "GOODRAGE",
+    "names": [
+      "gr",
+      "好生气",
+      "良怒"
+    ],
+    "unlock": "GOODFORTUNE 任意等级达到 A 评分解锁",
+    "from": "BOFU2017",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 308
+      },
+      "IN": {
+        "chartAuthor": "Ctymax vs. 阿爽",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 1034
+      },
+      "HD": {
+        "chartAuthor": "阿爽",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 628
+      }
+    },
+    "songLength": "2:01",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1030.png"
+  },
+  {
+    "chapter": "Chapter EX-WAVEAT 精选集",
+    "bpm": 128.0,
+    "songAuthor": "iF",
+    "illustration": "あおお/A-ZERO,morph",
+    "masterName": "Initialize",
+    "names": [
+      "initialize",
+      "ini"
+    ],
+    "unlock": "直接解锁",
+    "from": "WAVEAT联动曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 117
+      },
+      "IN": {
+        "chartAuthor": "Arenn Saki vs. NerSAN",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 581
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 354
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #299.png"
+  },
+  {
+    "chapter": "Chapter EX-WAVEAT 精选集",
+    "bpm": 135.0,
+    "songAuthor": "kozato snow",
+    "illustration": "あおお/A-ZERO,morph",
+    "masterName": "桜樹街道",
+    "unlock": "Initialize 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 292
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 13,
+        "destiny": 13.4,
+        "notes": 459
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 421
+      }
+    },
+    "songLength": "2:24",
+    "names": [
+      "桜树街道",
+      "大哥搓樱花",
+      "樱花街道",
+      "樱花",
+      "桜樹街道"
+    ],
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #890.png"
+  },
+  {
+    "chapter": "Chapter EX-WAVEAT 精选集",
+    "bpm": 142.0,
+    "songAuthor": "iF",
+    "illustration": "あおお/A-ZERO,morph",
+    "masterName": "Get Ready!!",
+    "names": [
+      "get ready",
+      "getready",
+      "ready"
+    ],
+    "unlock": "桜樹街道 任意等级达到 A 评分解锁",
+    "from": "WAVEAT联动曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "StupiGGy",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 363
+      },
+      "IN": {
+        "chartAuthor": "StupiGGy",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 819
+      },
+      "HD": {
+        "chartAuthor": "StupiGGy",
+        "hard": 8,
+        "destiny": 8.7,
+        "notes": 584
+      }
+    },
+    "songLength": "2:10",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #164.png"
+  },
+  {
+    "chapter": "Chapter EX-WAVEAT 精选集",
+    "bpm": 286.5,
+    "songAuthor": "DETRO a.k.a ルゼ",
+    "illustration": "あおお/A-ZERO,morph",
+    "masterName": "volcanic",
+    "names": [
+      "火山",
+      "火山爆发",
+      "vol"
+    ],
+    "unlock": "Get Ready!! 任意等级达到 A 评分解锁",
+    "from": "WAVEAT联动曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 1052
+      },
+      "IN": {
+        "chartAuthor": "Ctymax in a volcano,very delicious",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 1178
+      },
+      "AT": {
+        "chartAuthor": "Alloces",
+        "hard": 16,
+        "destiny": 16.2,
+        "notes": 1650
+      },
+      "HD": {
+        "chartAuthor": "Rikko",
+        "hard": 11,
+        "destiny": 11.9,
+        "notes": 985
+      }
+    },
+    "songLength": "2:16",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1655.png"
+  },
+  {
+    "chapter": "Chapter EX-Muse Dash 精选集",
+    "bpm": 177.0,
+    "songAuthor": "ginkiha",
+    "illustration": "打雷打人（青鸟modified）",
+    "masterName": "XING",
+    "names": [
+      "xing",
+      "性",
+      "行"
+    ],
+    "unlock": "直接解锁",
+    "from": "Muse Dash联动曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "StupiGGy",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 310
+      },
+      "IN": {
+        "chartAuthor": "Sillyp vs. 阿爽",
+        "hard": 13,
+        "destiny": 13.8,
+        "notes": 711
+      },
+      "HD": {
+        "chartAuthor": "StupiGGy",
+        "hard": 9,
+        "destiny": 9.9,
+        "notes": 587
+      }
+    },
+    "songLength": "2:16",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1558.png"
+  },
+  {
+    "chapter": "Chapter EX-Muse Dash 精选集",
+    "bpm": 180.0,
+    "songAuthor": "Lime",
+    "illustration": "谷地（青鸟modified）",
+    "masterName": "Final Step!",
+    "names": [
+      "final step!",
+      "FS"
+    ],
+    "unlock": "XING 任意等级达到 A 评分解锁",
+    "from": "Muse Dash联动曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 355
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman vs. Uvernight",
+        "hard": 14,
+        "destiny": 14.3,
+        "notes": 931
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 604
+      }
+    },
+    "songLength": "2:17",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #745.png"
+  },
+  {
+    "chapter": "Chapter EX-Muse Dash 精选集",
+    "bpm": 213.0,
+    "songAuthor": "USAO",
+    "illustration": "谷地（青鸟modified）",
+    "masterName": "Cthugha",
+    "names": [
+      "cthugha",
+      "古神",
+      "火球",
+      "火神",
+      "克图格亚"
+    ],
+    "unlock": "Final Step! 任意等级达到 A 评分解锁",
+    "from": "Muse Dash联动曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 378
+      },
+      "IN": {
+        "chartAuthor": "Gausbon",
+        "hard": 15,
+        "destiny": 15.6,
+        "notes": 1333
+      },
+      "AT": {
+        "chartAuthor": "百九十八 feat. NerSAN",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1444
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 12,
+        "destiny": 12.3,
+        "notes": 697
+      }
+    },
+    "songLength": "2:34",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #59.png"
+  },
+  {
+    "chapter": "Chapter EX-KALPA 精选集",
+    "bpm": 128.0,
+    "songAuthor": "HyuN & KLYDIX",
+    "illustration": "ZG",
+    "masterName": "Time to Night Sky (feat. Lee Yu Jin)",
+    "names": [],
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Rikko",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 165
+      },
+      "IN": {
+        "chartAuthor": "Likey & 198ar",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 540
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 9,
+        "destiny": 9.1,
+        "notes": 559
+      }
+    },
+    "songLength": "2:11",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1191.png"
+  },
+  {
+    "chapter": "Chapter EX-KALPA 精选集",
+    "bpm": 128.0,
+    "songAuthor": "Limpid",
+    "illustration": "ZG",
+    "masterName": "HAZARD",
+    "names": [
+      "hazard"
+    ],
+    "unlock": "Time to Night Sky (feat. Lee Yu Jin) 任意等级达到 A 评分解锁",
+    "from": "KALPA联动供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "NerSAN",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 283
+      },
+      "IN": {
+        "chartAuthor": "阿爽",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 588
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 10,
+        "destiny": 10.9,
+        "notes": 507
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1350.png"
+  },
+  {
+    "chapter": "Chapter EX-KALPA 精选集",
+    "bpm": 210.0,
+    "songAuthor": "D_AAN",
+    "illustration": "ZG",
+    "masterName": "Another Me",
+    "unlock": "HAZARD 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Pcat",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 455
+      },
+      "IN": {
+        "chartAuthor": "NerSAN vs. Ctymax as \"泥头鱼\"",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 1449
+      },
+      "HD": {
+        "chartAuthor": "Another cat",
+        "hard": 9,
+        "destiny": 9.2,
+        "notes": 715
+      }
+    },
+    "songLength": "2:46",
+    "names": [
+      "Another Me2",
+      "Another Me15",
+      "Another another Me",
+      "newAnother Me",
+      "Another Me KALPA"
+    ],
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration.png"
+  },
+  {
+    "chapter": "Chapter EX-KALPA 精选集",
+    "bpm": 175.0,
+    "songAuthor": "HAMA",
+    "illustration": "Arahosi",
+    "masterName": "Don't Never Around",
+    "names": [],
+    "unlock": "Another Me 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 308
+      },
+      "IN": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 15,
+        "destiny": 15.6,
+        "notes": 1028
+      },
+      "HD": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 11,
+        "destiny": 11.7,
+        "notes": 639
+      }
+    },
+    "songLength": "1:59",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1158.png"
+  },
+  {
+    "chapter": "Chapter EX-KALPA 精选集",
+    "bpm": 205.0,
+    "songAuthor": "ぐるたみん",
+    "illustration": "LINUS",
+    "masterName": "RESSiSTANCE",
+    "names": [
+      "ressistance",
+      "劲爆5key",
+      "RESS",
+      "什么寄谱拇指不可能",
+      "意大利"
+    ],
+    "unlock": "Don't Never Around 任意等级达到 A 评分解锁",
+    "from": "KALPA联动供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "其一 呼吸尚存的标志",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 499
+      },
+      "IN": {
+        "chartAuthor": "其三 我所存在的证明",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1026
+      },
+      "HD": {
+        "chartAuthor": "其二 向前迈进的理由",
+        "hard": 10,
+        "destiny": 10.6,
+        "notes": 744
+      }
+    },
+    "songLength": "2:28",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #254.png"
+  },
+  {
+    "chapter": "Chapter EX-Lanota 精选集",
+    "bpm": 220.0,
+    "songAuthor": "アリスシャッハと魔法の楽団",
+    "illustration": "Lanota © Noxy Games Inc.",
+    "masterName": "Apocalypse",
+    "names": [],
+    "unlock": "直接解锁",
+    "from": "Lanota联动获得",
+    "level": {
+      "EZ": {
+        "chartAuthor": "R.",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 207
+      },
+      "IN": {
+        "chartAuthor": "Rikko & 198",
+        "hard": 13,
+        "destiny": 13.5,
+        "notes": 676
+      },
+      "HD": {
+        "chartAuthor": "B.",
+        "hard": 8,
+        "destiny": 8.6,
+        "notes": 382
+      }
+    },
+    "songLength": "2:45",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.3\\Illustration #2376.png"
+  },
+  {
+    "chapter": "Chapter EX-Lanota 精选集",
+    "bpm": 140.0,
+    "songAuthor": "Silentroom",
+    "illustration": "Lanota © Noxy Games Inc.",
+    "masterName": "Protoflicker",
+    "names": [
+      "点划",
+      "flicker"
+    ],
+    "unlock": "Apocalypse 任意等级达到 A 评分解锁",
+    "from": "Lanota联动获得",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman & J.R",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 259
+      },
+      "IN": {
+        "chartAuthor": "Gausbon",
+        "hard": 15,
+        "destiny": 15.2,
+        "notes": 1210
+      },
+      "HD": {
+        "chartAuthor": "RTH",
+        "hard": 10,
+        "destiny": 10.6,
+        "notes": 511
+      }
+    },
+    "songLength": "2:48",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.3\\Illustration #1265.png"
+  },
+  {
+    "chapter": "Chapter EX-Lanota 精选集",
+    "bpm": 200.0,
+    "songAuthor": "Nothing But Requiem feat. Aikapin & Chiyoko",
+    "illustration": "Lanota © Noxy Games Inc.",
+    "masterName": "Horizon Blue",
+    "names": [
+      "蓝色骷髅"
+    ],
+    "unlock": "Protoflicker 任意等级达到 A 评分解锁",
+    "from": "Lanota联动获得",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Nothing But Uvernight",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 519
+      },
+      "IN": {
+        "chartAuthor": "Nothing But Ner & Pcat",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 1084
+      },
+      "HD": {
+        "chartAuthor": "Nothing But Likey",
+        "hard": 12,
+        "destiny": 12.2,
+        "notes": 733
+      }
+    },
+    "songLength": "2:47",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.3\\Illustration #1282.png"
+  },
+  {
+    "chapter": "Chapter EX-Lanota 精选集",
+    "bpm": 163.0,
+    "songAuthor": "t+pazolite",
+    "illustration": "Lanota © Noxy Games Inc.",
+    "masterName": "You are the Miserable",
+    "names": [
+      "miserable",
+      "盘子洗衣机",
+      "管风琴"
+    ],
+    "unlock": "Horizon Blue 任意等级达到 A 评分解锁",
+    "from": "Lanota联动获得",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 486
+      },
+      "IN": {
+        "chartAuthor": "We are the Miserable",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 893
+      },
+      "AT": {
+        "chartAuthor": "Pat Brick Man Mr.C & Mr.B",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1344
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM",
+        "hard": 11,
+        "destiny": 11.7,
+        "notes": 762
+      }
+    },
+    "songLength": "2:43",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.3\\Illustration #1298.png"
+  },
+  {
+    "chapter": "Chapter EX-Lanota 精选集",
+    "bpm": 180.0,
+    "songAuthor": "Maozon",
+    "illustration": "Lanota © Noxy Games Inc.",
+    "masterName": "Stasis",
+    "names": [
+      "船",
+      "炸船"
+    ],
+    "unlock": "You are the Miserable 任意等级达到 A 评分解锁",
+    "from": "Lanota联动获得",
+    "level": {
+      "EZ": {
+        "chartAuthor": "空の希",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 446
+      },
+      "IN": {
+        "chartAuthor": "ST AS is XMT",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 1322
+      },
+      "AT": {
+        "chartAuthor": "百九十八",
+        "hard": 16,
+        "destiny": 16.4,
+        "notes": 1700
+      },
+      "HD": {
+        "chartAuthor": "空の希",
+        "hard": 11,
+        "destiny": 11.1,
+        "notes": 902
+      }
+    },
+    "songLength": "2:34",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.3\\Illustration.png"
+  },
+  {
+    "chapter": "Chapter EX-姜米條 精选集",
+    "bpm": 172.0,
+    "songAuthor": "姜米条&SumaiLight",
+    "illustration": "御坂果子",
+    "masterName": "Shadow",
+    "names": [
+      "影子",
+      "留影"
+    ],
+    "unlock": "直接解锁",
+    "from": "phigros原创曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "晨",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 393
+      },
+      "IN": {
+        "chartAuthor": "Sillyp vs 晨",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 840
+      },
+      "AT": {
+        "chartAuthor": "J0(_)I2|\\|3y'5 3|\\||) ",
+        "hard": 15,
+        "destiny": 15.9,
+        "notes": 1089
+      },
+      "HD": {
+        "chartAuthor": "晨",
+        "hard": 10,
+        "destiny": 10.3,
+        "notes": 549
+      }
+    },
+    "songLength": "2:23",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2328.png"
+  },
+  {
+    "chapter": "Chapter EX-姜米條 精选集",
+    "bpm": 180.0,
+    "songAuthor": "姜米條",
+    "illustration": "笔记RE",
+    "masterName": "心之所向",
+    "names": [],
+    "unlock": "Shadow 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "波之所杂",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 226
+      },
+      "IN": {
+        "chartAuthor": "倪之所爽",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 713
+      },
+      "HD": {
+        "chartAuthor": "波之所杂",
+        "hard": 9,
+        "destiny": 9.7,
+        "notes": 422
+      }
+    },
+    "songLength": "2:16",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #2409.png"
+  },
+  {
+    "chapter": "Chapter EX-姜米條 精选集",
+    "bpm": 200.0,
+    "songAuthor": "姜米條",
+    "illustration": "群青kurara",
+    "masterName": "inferior",
+    "names": [],
+    "unlock": "心之所向 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ner, the inferior",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 226
+      },
+      "IN": {
+        "chartAuthor": "JKy, the inferior",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 755
+      },
+      "HD": {
+        "chartAuthor": "Ner, the inferior",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 489
+      }
+    },
+    "songLength": "2:03",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #773.png"
+  },
+  {
+    "chapter": "Chapter EX-茶鸣拾贰律 精选集",
+    "bpm": 131.0,
+    "songAuthor": "茶鸣拾贰律",
+    "illustration": "茶鸣拾贰律",
+    "masterName": "盏茗",
+    "names": [],
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 2,
+        "destiny": 2.0,
+        "notes": 83
+      },
+      "IN": {
+        "chartAuthor": "NerSAN sipping XMTea",
+        "hard": 13,
+        "destiny": 13.3,
+        "notes": 706
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 176
+      }
+    },
+    "songLength": "2:10",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1866.png"
+  },
+  {
+    "chapter": "Chapter EX-茶鸣拾贰律 精选集",
+    "bpm": 108.0,
+    "songAuthor": "茶鸣拾贰律",
+    "illustration": "茶鸣拾贰律",
+    "masterName": "青芽",
+    "names": [],
+    "unlock": "盏茗 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "生根发芽的小咩兔",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 366
+      },
+      "IN": {
+        "chartAuthor": "Hook vs._鉄",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 1102
+      },
+      "HD": {
+        "chartAuthor": "逆流而上的小咩兔",
+        "hard": 10,
+        "destiny": 10.8,
+        "notes": 520
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #2709.png"
+  },
+  {
+    "chapter": "Chapter EX-茶鸣拾贰律 精选集",
+    "bpm": 128.0,
+    "songAuthor": "茶鸣拾贰律",
+    "illustration": "茶鸣拾贰律",
+    "masterName": "瓷岁",
+    "names": [],
+    "unlock": "青芽 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "「流」年大顺",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 120
+      },
+      "IN": {
+        "chartAuthor": "「兔」年大吉",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 365
+      },
+      "HD": {
+        "chartAuthor": "「流」年大顺",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 309
+      }
+    },
+    "songLength": "2:54",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #2387.png"
+  },
+  {
+    "chapter": "Chapter EX-茶鸣拾贰律 精选集",
+    "bpm": 128.0,
+    "songAuthor": "茶鸣拾贰律",
+    "illustration": "茶鸣拾贰律",
+    "masterName": "Feast远东之宴",
+    "names": [],
+    "unlock": "瓷岁 任意等级达到 A 评分解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 600
+      },
+      "IN": {
+        "chartAuthor": "Gino",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 1000
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 11,
+        "destiny": 11.9,
+        "notes": 800
+      }
+    },
+    "songLength": "2:40",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #4503.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 280.0,
+    "songAuthor": "LeaF",
+    "illustration": "海产",
+    "masterName": "Doppelganger",
+    "names": [
+      "停顿神曲",
+      "二重身"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFU2013/FRENZ2013",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Lumiere",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 257
+      },
+      "IN": {
+        "chartAuthor": "Gausbon",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 921
+      },
+      "HD": {
+        "chartAuthor": "Lumiere",
+        "hard": 9,
+        "destiny": 9.8,
+        "notes": 437
+      }
+    },
+    "songLength": "2:25",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1633.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 100.0,
+    "songAuthor": "LeaF",
+    "illustration": "Cycats",
+    "masterName": "もぺもぺ",
+    "names": [
+      "もぺもぺ",
+      "もペもペ",
+      "mopemope",
+      "mope",
+      "小花",
+      "儿童鞋垫",
+      "儿童邪典"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽 fixed by Barbarianerman",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 125
+      },
+      "IN": {
+        "chartAuthor": "阿爽",
+        "hard": 11,
+        "destiny": 11.1,
+        "notes": 412
+      },
+      "AT": {
+        "chartAuthor": "阿爽",
+        "hard": 14,
+        "destiny": 14.9,
+        "notes": 720
+      },
+      "HD": {
+        "chartAuthor": "阿爽 fixed by Barbarianerman",
+        "hard": 8,
+        "destiny": 8.5,
+        "notes": 289
+      }
+    },
+    "songLength": "1:50",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1953.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 140.0,
+    "songAuthor": "LeaF",
+    "illustration": "喵n葵",
+    "masterName": "MARENOL",
+    "names": [
+      "骂人ol",
+      "成人鞋垫",
+      "成人邪典"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "H.C.C fixed by Barbarianerman",
+        "hard": 2,
+        "destiny": 2.0,
+        "notes": 95
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.2,
+        "notes": 689
+      },
+      "HD": {
+        "chartAuthor": "H.C.C fixed by Barbarianerman",
+        "hard": 10,
+        "destiny": 10.2,
+        "notes": 467
+      }
+    },
+    "songLength": "2:29",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1104.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 100.0,
+    "songAuthor": "闫东炜",
+    "illustration": "L-sp4",
+    "masterName": "萤火虫の怨",
+    "names": [
+      "萤火虫的怨",
+      "萤火虫"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "闫东炜联动供曲 Dynamix同收录此曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽 & 百九十八",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 245
+      },
+      "IN": {
+        "chartAuthor": "阿爽 & 百九十八",
+        "hard": 13,
+        "destiny": 13.1,
+        "notes": 885
+      },
+      "HD": {
+        "chartAuthor": "阿爽 & 百九十八",
+        "hard": 10,
+        "destiny": 10.6,
+        "notes": 746
+      }
+    },
+    "songLength": "2:38",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1160.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 120.0,
+    "songAuthor": "闫东炜",
+    "illustration": "IvyTowers",
+    "masterName": "万吨匿名信",
+    "names": [
+      "匿名信",
+      "万吨"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "闫东炜联动供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "猫の信 & 百九十八",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 307
+      },
+      "IN": {
+        "chartAuthor": "猫の信 & 百九十八",
+        "hard": 13,
+        "destiny": 13.3,
+        "notes": 781
+      },
+      "HD": {
+        "chartAuthor": "猫の信 & 百九十八",
+        "hard": 9,
+        "destiny": 9.7,
+        "notes": 648
+      }
+    },
+    "songLength": "2:44",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #304.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 170.0,
+    "songAuthor": "闫东炜",
+    "illustration": "cycats",
+    "masterName": "风屿",
+    "names": [
+      "啊",
+      "疯屿"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros闫东炜供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Arenn Saki vs Catcats vs 百九十八",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 368
+      },
+      "IN": {
+        "chartAuthor": "Arenn Saki vs Catcats vs 百九十八",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 1156
+      },
+      "AT": {
+        "chartAuthor": "JKy",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 1236
+      },
+      "HD": {
+        "chartAuthor": "Arenn Saki vs Catcats vs 百九十八",
+        "hard": 10,
+        "destiny": 10.3,
+        "notes": 802
+      }
+    },
+    "songLength": "2:59",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1204.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "YUE.STEVEN/uen",
+    "illustration": "何呵",
+    "masterName": "dB doll",
+    "names": [
+      "dB",
+      "B doll"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Soul Notes 灵魂音符厂牌",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽 fixed by Barbarianerman",
+        "hard": 1,
+        "destiny": 1.5,
+        "notes": 60
+      },
+      "IN": {
+        "chartAuthor": "阿爽",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 237
+      },
+      "AT": {
+        "chartAuthor": "NerSAN & 百九十八",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 377
+      },
+      "HD": {
+        "chartAuthor": "阿爽 fixed by Barbarianerman",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 124
+      }
+    },
+    "songLength": "1:48",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1089.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "小红Akane，李祥晖",
+    "illustration": "艾是Abby",
+    "masterName": "Dash from SOUL NOTES",
+    "names": ["Dash"],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽 fixed by Barbarianerman",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 114
+      },
+      "IN": {
+        "chartAuthor": "JKy",
+        "hard": 11,
+        "destiny": 11.7,
+        "notes": 346
+      },
+      "HD": {
+        "chartAuthor": "阿爽 fixed by Barbarianerman",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 210
+      }
+    },
+    "songLength": "1:54",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #123.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 155.0,
+    "songAuthor": "符白牙/SiYFics",
+    "illustration": "御坂果子",
+    "masterName": "云女孩",
+    "names": [
+      "云女鬼",
+      "真假12"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Soul Notes 灵魂音符厂牌",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Cloud Catcats",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 220
+      },
+      "IN": {
+        "chartAuthor": "云正太",
+        "hard": 12,
+        "destiny": 12.6,
+        "notes": 669
+      },
+      "HD": {
+        "chartAuthor": "Cloud Catcats",
+        "hard": 9,
+        "destiny": 9.9,
+        "notes": 538
+      }
+    },
+    "songLength": "2:58",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #888.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 126.0,
+    "songAuthor": "Asuka",
+    "illustration": "TNiK",
+    "masterName": "Drop It from SOUL NOTES",
+    "names": ["Drop It"],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Drop Catcats",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 505
+      },
+      "IN": {
+        "chartAuthor": "NerSAN & 百九十八",
+        "hard": 14,
+        "destiny": 14.1,
+        "notes": 1031
+      },
+      "HD": {
+        "chartAuthor": "Drop Catcats",
+        "hard": 9,
+        "destiny": 9.6,
+        "notes": 602
+      }
+    },
+    "songLength": "3:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #686.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 150.0,
+    "songAuthor": "Friedwav",
+    "illustration": "何呵",
+    "masterName": "RIPPER",
+    "names": [
+      "开膛手",
+      "曾经的大粪"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "撕裂者『無極』 fixed by 晨",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 520
+      },
+      "IN": {
+        "chartAuthor": "撕裂者『Alloces vs Shin』",
+        "hard": 15,
+        "destiny": 15.2,
+        "notes": 1186
+      },
+      "HD": {
+        "chartAuthor": "撕裂者『無極』 fixed by 晨",
+        "hard": 11,
+        "destiny": 11.2,
+        "notes": 704
+      }
+    },
+    "songLength": "3:19",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1302.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "闫东炜",
+    "illustration": "笔记RE",
+    "masterName": "Aphasia",
+    "names": [
+      "失语症",
+      "由于神经中枢病损导致抽象信号思维障碍，丧失口语、文字表达和理解能力"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "闫东炜联动供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 283
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 13,
+        "destiny": 13.1,
+        "notes": 553
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 8,
+        "destiny": 8.8,
+        "notes": 362
+      }
+    },
+    "songLength": "1:56",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #229.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 131.0,
+    "songAuthor": "闫东炜",
+    "illustration": "昔璃",
+    "masterName": "开心病",
+    "names": [
+      "失心疯"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "闫东炜供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "HaraKuma",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 158
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman feat. 晨",
+        "hard": 14,
+        "destiny": 14.2,
+        "notes": 840
+      },
+      "HD": {
+        "chartAuthor": "HaraKuma",
+        "hard": 11,
+        "destiny": 11.5,
+        "notes": 442
+      }
+    },
+    "songLength": "1:55",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #2397.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 120.0,
+    "songAuthor": "闫东炜",
+    "illustration": "IvyTowers",
+    "masterName": "華灯爱",
+    "names": ["华灯爱"],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "HaraKuma",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 318
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 14,
+        "destiny": 14.1,
+        "notes": 520
+      },
+      "HD": {
+        "chartAuthor": "HaraKuma",
+        "hard": 9,
+        "destiny": 9.6,
+        "notes": 394
+      }
+    },
+    "songLength": "1:54",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1062.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 191.0,
+    "songAuthor": "K-forest",
+    "illustration": "YuKiMuMa",
+    "masterName": "Find_Me",
+    "names": [
+      "Find Me",
+      "FindMe",
+      "找到我",
+      "找我"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Find_Ctymax",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 465
+      },
+      "IN": {
+        "chartAuthor": "Find_Ctymax fixed by 百九十八",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 836
+      },
+      "HD": {
+        "chartAuthor": "Find_Ctymax",
+        "hard": 10,
+        "destiny": 10.5,
+        "notes": 657
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1958.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 210.0,
+    "songAuthor": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+    "illustration": "hideo",
+    "masterName": "Sein",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "A.S.H",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 203
+      },
+      "IN": {
+        "chartAuthor": "A.S.H&晨",
+        "hard": 14,
+        "destiny": 14.9,
+        "notes": 721
+      },
+      "HD": {
+        "chartAuthor": "A.S.H",
+        "hard": 9,
+        "destiny": 9.2,
+        "notes": 473
+      }
+    },
+    "songLength": "1:59",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1260.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 230.0,
+    "songAuthor": "LeaF",
+    "illustration": "DoublePian",
+    "masterName": "狂喜蘭舞",
+    "names": [
+      "狂喜",
+      "狂喜阑尾"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Catcats aka. 無極 VS H.C.C. fixed by 晨",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 472
+      },
+      "IN": {
+        "chartAuthor": "晨",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 968
+      },
+      "AT": {
+        "chartAuthor": "Catcats aka. 無極 VS H.C.C. fixed by 野从&晨",
+        "hard": 16,
+        "destiny": 16.1,
+        "notes": 1325
+      },
+      "HD": {
+        "chartAuthor": "Catcats aka. 無極 VS H.C.C. fixed by Pcat",
+        "hard": 10,
+        "destiny": 10.8,
+        "notes": 651
+      }
+    },
+    "songLength": "2:41",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1409.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 150.0,
+    "songAuthor": "rider",
+    "illustration": "1B",
+    "masterName": "Sparkle New Life",
+    "names": [
+      "SNF",
+      "闪亮新生活",
+      "新生活"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "G2R2018 位135",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Sparkle Ctymax",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 305
+      },
+      "IN": {
+        "chartAuthor": "Sparkle Ctymax fixed by 百九十八",
+        "hard": 12,
+        "destiny": 12.4,
+        "notes": 684
+      },
+      "HD": {
+        "chartAuthor": "Sparkle Ctymax",
+        "hard": 9,
+        "destiny": 9.2,
+        "notes": 497
+      }
+    },
+    "songLength": "2:17",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1380.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 188.0,
+    "songAuthor": "Halv",
+    "illustration": "utosao",
+    "masterName": "Khronostasis Katharsis",
+    "names": [
+      "紫伞",
+      "紫时停",
+      "时停他妹",
+      "KK"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "XMT小咩兔 & Myna",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 394
+      },
+      "IN": {
+        "chartAuthor": "StupiGGy fixed by 百九十八",
+        "hard": 14,
+        "destiny": 14.2,
+        "notes": 861
+      },
+      "HD": {
+        "chartAuthor": "XMT小咩兔 & Myna",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 747
+      }
+    },
+    "songLength": "2:14",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1567.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 125.0,
+    "songAuthor": "WyvernP",
+    "illustration": "knife美工刀",
+    "masterName": "Snow Desert",
+    "names": [
+      "雪沙漠",
+      "雪漠"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "VikingNexus",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 236
+      },
+      "IN": {
+        "chartAuthor": "VikingNexus",
+        "hard": 13,
+        "destiny": 13.3,
+        "notes": 655
+      },
+      "HD": {
+        "chartAuthor": "VikingNexus",
+        "hard": 10,
+        "destiny": 10.3,
+        "notes": 534
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #26.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 148.0,
+    "songAuthor": "NceS",
+    "illustration": "knife美工刀",
+    "masterName": "Burn",
+    "names": [
+      "烤全鸭",
+      "考全押",
+      "饿啊",
+      "烤全押"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFXV",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymatch Girl ",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 278
+      },
+      "IN": {
+        "chartAuthor": "Burn Full Catcats VS Ctymatch Girl",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 707
+      },
+      "HD": {
+        "chartAuthor": "Burn Full Catcats",
+        "hard": 10,
+        "destiny": 10.6,
+        "notes": 497
+      }
+    },
+    "songLength": "2:17",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1651.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 217.5,
+    "songAuthor": "LeaF",
+    "illustration": "Optie",
+    "masterName": "Aleph-0",
+    "names": [
+      "ℵ₀",
+      "ℵ-0",
+      "a0",
+      "草先生的完美数课堂"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFU2016",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Clutter",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 153
+      },
+      "IN": {
+        "chartAuthor": "Clutter",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 885
+      },
+      "HD": {
+        "chartAuthor": "Clutter",
+        "hard": 12,
+        "destiny": 12.1,
+        "notes": 531
+      }
+    },
+    "songLength": "2:20",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #624.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 175.0,
+    "songAuthor": "SaMZing",
+    "illustration": "叶藤",
+    "masterName": "Next Time",
+    "names": [
+      "see you next time",
+      "下次一定"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Dynamix同收录此曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Gausbon ~ See you next time ~",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 240
+      },
+      "IN": {
+        "chartAuthor": "Gausbon ~ See you next time ~",
+        "hard": 12,
+        "destiny": 12.6,
+        "notes": 387
+      },
+      "HD": {
+        "chartAuthor": "Gausbon ~ See you next time ~",
+        "hard": 9,
+        "destiny": 9.2,
+        "notes": 303
+      }
+    },
+    "songLength": "1:50",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #235.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "Ctymax vs. NceS",
+    "illustration": "knife美工刀",
+    "masterName": "Rubbish Sorting",
+    "names": [
+      "Rubbish",
+      "RubbishSorting",
+      "你是什么垃圾",
+      "垃圾分类"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFXV 位264",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽 vs. Ctymax -Haose 垃圾-",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 229
+      },
+      "IN": {
+        "chartAuthor": "阿爽 vs. Ctymax -Haose 垃圾-",
+        "hard": 12,
+        "destiny": 12.8,
+        "notes": 613
+      },
+      "HD": {
+        "chartAuthor": "阿爽 vs. Ctymax -Haose 垃圾-",
+        "hard": 9,
+        "destiny": 9.4,
+        "notes": 475
+      }
+    },
+    "songLength": "2:46",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2305.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 132.0,
+    "songAuthor": "Sound Souler",
+    "illustration": "Photonskyto",
+    "masterName": "Dead Soul",
+    "names": [
+      "第四大道",
+      "死魂",
+      "死鬼",
+      "死鬼踏地板"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Dynamix Submission 2017银曲 BOFU2017 位10",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Phigros Charting Team",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 273
+      },
+      "IN": {
+        "chartAuthor": "Phigros Charting Team",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 787
+      },
+      "HD": {
+        "chartAuthor": "Phigros Charting Team",
+        "hard": 11,
+        "destiny": 11.7,
+        "notes": 613
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #790.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 145.0,
+    "songAuthor": "DarTokki",
+    "illustration": "TNiK",
+    "masterName": "Speed Up!",
+    "names": [
+      "Speed Up",
+      "Speed Up！",
+      "加速",
+      "赛车"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax VS 百九十八",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 262
+      },
+      "IN": {
+        "chartAuthor": "Ctymax VS 百九十八",
+        "hard": 14,
+        "destiny": 14.3,
+        "notes": 711
+      },
+      "HD": {
+        "chartAuthor": "Ctymax VS 百九十八",
+        "hard": 10,
+        "destiny": 10.3,
+        "notes": 463
+      }
+    },
+    "songLength": "2:20",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #106.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 150.0,
+    "songAuthor": "EmoCo.",
+    "illustration": "NO|SER",
+    "masterName": "Magenta Potion",
+    "names": [
+      "骂人药水",
+      "鸽游你傻逼吧",
+      "傻逼",
+      "魔法药水"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFXVI",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax VS 晨",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 334
+      },
+      "IN": {
+        "chartAuthor": "Ctymax VS 晨",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 791
+      },
+      "HD": {
+        "chartAuthor": "Ctymax VS 晨",
+        "hard": 11,
+        "destiny": 11.3,
+        "notes": 631
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1249.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "CAP3",
+    "illustration": "TiNK",
+    "masterName": "Get Back",
+    "names": [
+      "回来",
+      "getback"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Soul Notes供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "JKy",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 321
+      },
+      "IN": {
+        "chartAuthor": "JKy",
+        "hard": 13,
+        "destiny": 13.8,
+        "notes": 708
+      },
+      "HD": {
+        "chartAuthor": "JKy",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 550
+      }
+    },
+    "songLength": "2:24",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1403.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 173.0,
+    "songAuthor": "WyvernP feat. Madol",
+    "illustration": "GAMEBAKA",
+    "masterName": "Palescreen",
+    "names": [
+      "U盘",
+      "男高音",
+      "天地交互"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "FREN2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Jeitie",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 224
+      },
+      "IN": {
+        "chartAuthor": "Jeitie",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 1059
+      },
+      "HD": {
+        "chartAuthor": "Jeitie",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 772
+      }
+    },
+    "songLength": "2:25",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #819.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 127.0,
+    "songAuthor": "Paul Bazooka",
+    "illustration": "START SEED",
+    "masterName": "The Mountain Eater from MUSYNC",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 210
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 697
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 9,
+        "destiny": 9.1,
+        "notes": 386
+      }
+    },
+    "songLength": "2:03",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #594.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 170.0,
+    "songAuthor": "tokiwa",
+    "illustration": "cycats",
+    "masterName": "Orthodox",
+    "names": [
+      "演唱会",
+      "Orth"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Uvernight",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 304
+      },
+      "IN": {
+        "chartAuthor": "Uvernight",
+        "hard": 14,
+        "destiny": 14.3,
+        "notes": 962
+      },
+      "HD": {
+        "chartAuthor": "Uvernight",
+        "hard": 10,
+        "destiny": 10.6,
+        "notes": 627
+      }
+    },
+    "songLength": "2:21",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #552.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 110.0,
+    "songAuthor": "ZxNX as Delaina",
+    "illustration": "何呵",
+    "masterName": "End Me",
+    "names": [
+      "结束我",
+      "了结我",
+      "雷霆战机"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "鲲",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 217
+      },
+      "IN": {
+        "chartAuthor": "鲲 fixed by 百九十八",
+        "hard": 14,
+        "destiny": 14.1,
+        "notes": 724
+      },
+      "HD": {
+        "chartAuthor": "鲲",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 320
+      }
+    },
+    "songLength": "2:10",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1373.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 175.0,
+    "songAuthor": "Tetrajectory",
+    "illustration": "青鸟",
+    "masterName": "Parallel Retrogression(Game Ver.)",
+    "names": [
+      "Parallel Retrogression",
+      "碎屏",
+      "平行"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "HaraKuma",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 507
+      },
+      "IN": {
+        "chartAuthor": "HaraKuma",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 851
+      },
+      "HD": {
+        "chartAuthor": "HaraKuma",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 697
+      }
+    },
+    "songLength": "2:22",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1986.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 110.0,
+    "songAuthor": "Quree",
+    "illustration": "IvyTowers",
+    "masterName": "Starduster",
+    "names": [
+      "星辰"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "NerSAN",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 280
+      },
+      "IN": {
+        "chartAuthor": "NerSAN",
+        "hard": 15,
+        "destiny": 15.1,
+        "notes": 874
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 578
+      }
+    },
+    "songLength": "2:09",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #912.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 134.0,
+    "songAuthor": "ElousΛ.-FZ",
+    "illustration": "DoublePian",
+    "masterName": "Electron",
+    "names": [
+      "ele"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Phigros原创曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "百九十八",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 219
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 13,
+        "destiny": 13.2,
+        "notes": 576
+      },
+      "HD": {
+        "chartAuthor": "百九十八",
+        "hard": 10,
+        "destiny": 10.4,
+        "notes": 423
+      }
+    },
+    "songLength": "2:08",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2344.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 200.0,
+    "songAuthor": "Kry.exe",
+    "illustration": "塔塔",
+    "masterName": "SIGMA",
+    "names": [
+      "死个妈",
+      "死个马",
+      "四个马",
+      "∑"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman.exe",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 352
+      },
+      "IN": {
+        "chartAuthor": "Bσrbσriσn∑rmσn.∑x∑",
+        "hard": 15,
+        "destiny": 15.6,
+        "notes": 785
+      },
+      "HD": {
+        "chartAuthor": "Bσrbσriσnermσn.exe",
+        "hard": 11,
+        "destiny": 11.5,
+        "notes": 516
+      }
+    },
+    "songLength": "2:01",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1122.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 200.0,
+    "songAuthor": "EnFr",
+    "illustration": "EnFr",
+    "masterName": "Hardcore Kwaya",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "One skunk (Ctymax) in Africa",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 340
+      },
+      "IN": {
+        "chartAuthor": "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 852
+      },
+      "HD": {
+        "chartAuthor": "Hardcore Barbaya",
+        "hard": 9,
+        "destiny": 9.2,
+        "notes": 611
+      }
+    },
+    "songLength": "2:00",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\Illustration #755.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 123.0,
+    "songAuthor": "Grand Thaw / Rigël Theatre",
+    "illustration": "Grand Thaw / Rigël Theatre",
+    "masterName": "Äventyr",
+    "names": [
+      "aventyr",
+      "ave"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOF2012",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 345
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman vs. Snorkel",
+        "hard": 13,
+        "destiny": 13.7,
+        "notes": 954
+      },
+      "HD": {
+        "chartAuthor": "Snorkel",
+        "hard": 9,
+        "destiny": 9.4,
+        "notes": 626
+      }
+    },
+    "songLength": "2:40",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #611.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 135.0,
+    "songAuthor": "MALVA.",
+    "illustration": "しえろ",
+    "masterName": "Träne",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 1,
+        "destiny": 1.5,
+        "notes": 148
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 661
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 420
+      }
+    },
+    "songLength": "2:26",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\Illustration #1046.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 180.0,
+    "songAuthor": "A-39",
+    "illustration": "犀牛坨动画工坊",
+    "masterName": "雪降り、メリクリ",
+    "names": [
+      "雪降",
+      "雪崩",
+      "血将",
+      "血浆",
+      "嘿嘿嘿...初音的腿。。。嘿嘿嘿"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Merry xmAS",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 316
+      },
+      "IN": {
+        "chartAuthor": "N\\erry Xmas",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 939
+      },
+      "HD": {
+        "chartAuthor": "Merry ChristymAxS",
+        "hard": 9,
+        "destiny": 9.3,
+        "notes": 559
+      }
+    },
+    "songLength": "2:38",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1213.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 142.0,
+    "songAuthor": "SCTL",
+    "illustration": "SCTL",
+    "masterName": "Cervelle Connexion",
+    "names": [
+      "CC",
+      "脑链接",
+      "脑连接"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Eastern Ailuropoda Gang",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 301
+      },
+      "IN": {
+        "chartAuthor": "Eastern Ailuropoda Gang",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 563
+      },
+      "HD": {
+        "chartAuthor": "Eastern Ailuropoda Gang",
+        "hard": 11,
+        "destiny": 11.3,
+        "notes": 569
+      }
+    },
+    "songLength": "2:27",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #462.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 158.0,
+    "songAuthor": "PTB10",
+    "illustration": "geralt",
+    "masterName": "modulus",
+    "names": [
+      "毛肚",
+      "虚假的15.6",
+      "mod"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Cty moyules",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 258
+      },
+      "IN": {
+        "chartAuthor": "Pat Brick Man Mr.C",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 774
+      },
+      "HD": {
+        "chartAuthor": "Cty moyules",
+        "hard": 10,
+        "destiny": 10.1,
+        "notes": 482
+      }
+    },
+    "songLength": "2:00",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #404.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 112.0,
+    "songAuthor": "Frums",
+    "illustration": "百九十八",
+    "masterName": "Wavetapper",
+    "names": [
+      "打电话",
+      "大哥打电话",
+      "鸠打电话"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFU2015 位63",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Sillyp",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 470
+      },
+      "IN": {
+        "chartAuthor": "百九十八 vs. Barbarianerman",
+        "hard": 13,
+        "destiny": 13.8,
+        "notes": 866
+      },
+      "HD": {
+        "chartAuthor": "Sillyp",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 507
+      }
+    },
+    "songLength": "2:41",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #343.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 158.0,
+    "songAuthor": "adaptor vs DRIVE.",
+    "illustration": "りゆうら",
+    "masterName": "大和撫子 -Wild Dances-",
+    "names": [
+      "大和撫子",
+      "大和抚子",
+      "大和"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Eaimo fixed by NerSAN",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 274
+      },
+      "IN": {
+        "chartAuthor": "Eaimo vs. CtyNer dancing wildly",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 1002
+      },
+      "HD": {
+        "chartAuthor": "Eaimo fixed by NerSAN",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 549
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #872.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 193.0,
+    "songAuthor": "Fl00t",
+    "illustration": "xperz",
+    "masterName": "Eltaw",
+    "names": [
+      "taw"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "JKy",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 391
+      },
+      "IN": {
+        "chartAuthor": "BarbariaNERman vs. JKy",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 855
+      },
+      "HD": {
+        "chartAuthor": "JKy",
+        "hard": 10,
+        "destiny": 10.5,
+        "notes": 608
+      }
+    },
+    "songLength": "2:15",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1647.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 180.0,
+    "songAuthor": "ルゼ",
+    "illustration": "A-Zero Project",
+    "masterName": "Better Graphic Animation",
+    "names": [
+      "bga",
+      "纵连天堂",
+      "真男人11秒",
+      "616"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "NerSAN",
+        "hard": 6,
+        "destiny": 6.5,
+        "notes": 178
+      },
+      "IN": {
+        "chartAuthor": "縱連打の信者☆無極",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 616
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 11,
+        "destiny": 11.7,
+        "notes": 469
+      }
+    },
+    "songLength": "1:42",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1584.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 170.0,
+    "songAuthor": "Cashew",
+    "illustration": "ADZUKI",
+    "masterName": "With You",
+    "names": [
+      "withyou",
+      "with u",
+      "陪你"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "KALPA同收录",
+    "level": {
+      "EZ": {
+        "chartAuthor": "with U",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 226
+      },
+      "IN": {
+        "chartAuthor": "with U",
+        "hard": 13,
+        "destiny": 13.4,
+        "notes": 774
+      },
+      "HD": {
+        "chartAuthor": "with U",
+        "hard": 9,
+        "destiny": 9.3,
+        "notes": 654
+      }
+    },
+    "songLength": "2:06",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1946.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 146.0,
+    "songAuthor": "Joulez",
+    "illustration": "ASXX",
+    "masterName": "Unorthodox Thoughts",
+    "names": [
+      "UT",
+      "Unorthodox",
+      "Thoughts"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 512
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman vs. HaraKuma",
+        "hard": 13,
+        "destiny": 13.9,
+        "notes": 729
+      },
+      "HD": {
+        "chartAuthor": "HaraKuma",
+        "hard": 11,
+        "destiny": 11.3,
+        "notes": 644
+      }
+    },
+    "songLength": "2:23",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1453.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 160.0,
+    "songAuthor": "Z ClaxX & SumaiLight",
+    "illustration": "佑木いずみ& Ctymax",
+    "masterName": "Apocalyptic",
+    "names": [
+      "马里奥",
+      "apo"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Soul Notes 联动供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 282
+      },
+      "IN": {
+        "chartAuthor": "NerSAN vs. 阿爽",
+        "hard": 13,
+        "destiny": 13.6,
+        "notes": 676
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 9,
+        "destiny": 9.6,
+        "notes": 329
+      }
+    },
+    "songLength": "2:09",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2301.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "椒盐菠萝",
+    "illustration": "CEM",
+    "masterName": "游园地",
+    "names": [
+      "游乐园"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "CEM 联动供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "野从菠萝",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 220
+      },
+      "IN": {
+        "chartAuthor": "椒盐倪尔",
+        "hard": 13,
+        "destiny": 13.2,
+        "notes": 481
+      },
+      "HD": {
+        "chartAuthor": "野从菠萝",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 444
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #734.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 160.0,
+    "songAuthor": "KAH",
+    "illustration": "手鞠鈴&自動車 原付",
+    "masterName": "energy trixxx",
+    "names": [
+      "energy",
+      "rixxx",
+      "能量叉子",
+      "能量xx"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "G2R2018",
+    "level": {
+      "EZ": {
+        "chartAuthor": "NerSAN",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 252
+      },
+      "IN": {
+        "chartAuthor": "NerSANNN",
+        "hard": 15,
+        "destiny": 15.2,
+        "notes": 930
+      },
+      "HD": {
+        "chartAuthor": "NerSANN",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 477
+      }
+    },
+    "songLength": "2:25",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #649.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 174.59,
+    "songAuthor": "Silentroom",
+    "illustration": "駿",
+    "masterName": "Nhelv",
+    "names": [
+      "神经",
+      "你和驴",
+      "驴",
+      "驴和你"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "BOFU2017 位1",
+    "level": {
+      "EZ": {
+        "chartAuthor": "野从",
+        "hard": 1,
+        "destiny": 1.5,
+        "notes": 196
+      },
+      "IN": {
+        "chartAuthor": "森德雷斯 vs. 百九十八",
+        "hard": 15,
+        "destiny": 15.4,
+        "notes": 833
+      },
+      "HD": {
+        "chartAuthor": "StupiGGy",
+        "hard": 11,
+        "destiny": 11.9,
+        "notes": 571
+      }
+    },
+    "songLength": "2:39",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #193.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 112.0,
+    "songAuthor": "Sera Amagi",
+    "illustration": "Hachimitsu☆Boy",
+    "masterName": "-Arkhei-",
+    "names": [
+      "Arkhei"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Phigros等音游收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "-JKy-",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 462
+      },
+      "IN": {
+        "chartAuthor": "-JKy-",
+        "hard": 12,
+        "destiny": 12.1,
+        "notes": 644
+      },
+      "HD": {
+        "chartAuthor": "-JKy-",
+        "hard": 9,
+        "destiny": 9.7,
+        "notes": 454
+      }
+    },
+    "songLength": "2:37",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1419.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 197.0,
+    "songAuthor": "Zris",
+    "illustration": "Eridani",
+    "masterName": "Kerberos",
+    "names": [
+      "三头犬",
+      "地狱三头犬",
+      "三头狗",
+      "狗"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "同步音律等音游收录",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Alloces",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 262
+      },
+      "IN": {
+        "chartAuthor": "Snorkel vs. NerSAN",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 978
+      },
+      "HD": {
+        "chartAuthor": "NerSAN",
+        "hard": 12,
+        "destiny": 12.4,
+        "notes": 683
+      }
+    },
+    "songLength": "2:07",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #573.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 180.0,
+    "songAuthor": "siqlo",
+    "illustration": "出前 x nekomiya",
+    "masterName": "ρars/ey",
+    "names": [
+      "芹菜",
+      "切水果",
+      "水果忍者"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "FRENZ 2019",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Rikko",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 181
+      },
+      "IN": {
+        "chartAuthor": "TangScend",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 777
+      },
+      "HD": {
+        "chartAuthor": "Rikko & TangScend",
+        "hard": 11,
+        "destiny": 11.3,
+        "notes": 449
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/1.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 190.0,
+    "songAuthor": "Halv",
+    "illustration": "汉堡",
+    "masterName": "Concvssion",
+    "names": [
+      "脑震荡",
+      "concvssion"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "J.R",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 450
+      },
+      "IN": {
+        "chartAuthor": "Phigros Charting Team",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 1000
+      },
+      "HD": {
+        "chartAuthor": "晨",
+        "hard": 10,
+        "destiny": 10.2,
+        "notes": 700
+      }
+    },
+    "songLength": "2:31",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #145.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 175.0,
+    "songAuthor": "A-39/沙包P",
+    "illustration": "爱39的Konya",
+    "masterName": "ジングルベル(Jingle Bell)",
+    "names": [
+      "Jingle Bell",
+      "jingle bell",
+      "ジングルベル",
+      "圣诞机关枪",
+      "金狗表",
+      "初音拿枪",
+      "JB"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Phigros独占曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "merry CNrisTimas",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 639
+      },
+      "IN": {
+        "chartAuthor": "NerSANTA vs. BarbarianerSLEDGE",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 1239
+      },
+      "HD": {
+        "chartAuthor": "merry XM AS",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 492
+      }
+    },
+    "songLength": "2:47",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #526.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 120.0,
+    "songAuthor": "z1on & kyrrin",
+    "illustration": "海产",
+    "masterName": "Dreamland",
+    "names": [
+      "梦岛",
+      "梦想岛",
+      "梦之岛",
+      "梦境"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "CEM音乐厂牌供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Bea ",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 338
+      },
+      "IN": {
+        "chartAuthor": "XMT & 198",
+        "hard": 13,
+        "destiny": 13.2,
+        "notes": 627
+      },
+      "HD": {
+        "chartAuthor": "Bea ",
+        "hard": 9,
+        "destiny": 9.8,
+        "notes": 476
+      }
+    },
+    "songLength": "2:32",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1612.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 128.0,
+    "songAuthor": "Justin Dai",
+    "illustration": "艾是Abby",
+    "masterName": "Another Round",
+    "names": [
+      "AR"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "SUBBASE音乐厂牌供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "阿爽",
+        "hard": 3,
+        "destiny": 3.0,
+        "notes": 136
+      },
+      "IN": {
+        "chartAuthor": "TimiTini →\"X\"← 阿爽",
+        "hard": 13,
+        "destiny": 13.3,
+        "notes": 505
+      },
+      "HD": {
+        "chartAuthor": "Another Stage",
+        "hard": 7,
+        "destiny": 7.5,
+        "notes": 353
+      }
+    },
+    "songLength": "2:24",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1652.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 140.0,
+    "songAuthor": "李化禹",
+    "illustration": "笔记RE",
+    "masterName": "996",
+    "names": [
+      "996.icu"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "Soul音乐厂牌供曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "RTH ",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 392
+      },
+      "IN": {
+        "chartAuthor": "Barbarianerman & NerSAN in the ICU",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 996
+      },
+      "HD": {
+        "chartAuthor": "Likey",
+        "hard": 8,
+        "destiny": 8.1,
+        "notes": 453
+      }
+    },
+    "songLength": "2:34",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #159.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 180.0,
+    "songAuthor": "Ray Nautica & Reku Mochizuki",
+    "illustration": "Keiby.comics",
+    "masterName": "Future Mind",
+    "names": [
+      "FM"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 365
+      },
+      "IN": {
+        "chartAuthor": "Future BarbarXMT",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 866
+      },
+      "HD": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 11,
+        "destiny": 11.7,
+        "notes": 570
+      }
+    },
+    "songLength": "2:13",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2155.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 141.0,
+    "songAuthor": "Daison",
+    "illustration": "鲸弑",
+    "masterName": "Luminescent",
+    "names": [
+      "冷光"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Uvernight",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 330
+      },
+      "IN": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 650
+      },
+      "HD": {
+        "chartAuthor": "Uvernight",
+        "hard": 9,
+        "destiny": 9.3,
+        "notes": 608
+      }
+    },
+    "songLength": "2:37",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #2660.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 145.0,
+    "songAuthor": "MYUKKE.",
+    "illustration": "cycats",
+    "masterName": "FULi AUTO BUSTER",
+    "names": [
+      "福利自动爆",
+      "爆",
+      "爆爆爆",
+      "自动爆"
+    ],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "phigros收录曲",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM & 百九十八",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 285
+      },
+      "IN": {
+        "chartAuthor": "百九十八 busting 阿爽",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 755
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM & 百九十八",
+        "hard": 8,
+        "destiny": 8.6,
+        "notes": 596
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:/phigros/Illustration/Illustration/Illustration #1546.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 175.0,
+    "songAuthor": "TangJuan",
+    "illustration": "cycats",
+    "masterName": "I Must Say No",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Likey",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 76
+      },
+      "IN": {
+        "chartAuthor": "Likey & 百九十八",
+        "hard": 13,
+        "destiny": 13.5,
+        "notes": 470
+      },
+      "HD": {
+        "chartAuthor": "JKy",
+        "hard": 9,
+        "destiny": 9.5,
+        "notes": 364
+      }
+    },
+    "songLength": "1:56",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1315.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 193.0,
+    "songAuthor": "rN",
+    "illustration": "rN @ 湯元画伯",
+    "masterName": "opia",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "BlindForest",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 233
+      },
+      "IN": {
+        "chartAuthor": "Jeitie & CorruptedEntity 『Hollow』",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 793
+      },
+      "HD": {
+        "chartAuthor": "BlindForest『Observing』",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 548
+      }
+    },
+    "songLength": "2:29",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.3\\Illustration #1958.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 188.0,
+    "songAuthor": "U-ske feat. 棗いつき",
+    "illustration": "绿风マルト",
+    "masterName": "いざ、参ります",
+    "names": ["参上"],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Clutter & Barbarianerman",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 188
+      },
+      "IN": {
+        "chartAuthor": "小咩兔、参上",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 865
+      },
+      "HD": {
+        "chartAuthor": "Clutter & Barbarianerman",
+        "hard": 9,
+        "destiny": 9.6,
+        "notes": 441
+      }
+    },
+    "songLength": "1:42",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1275.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 175.0,
+    "songAuthor": "月见静华 vs. LUNARiUM",
+    "illustration": "TNiK",
+    "masterName": "月下缭乱",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 419
+      },
+      "IN": {
+        "chartAuthor": "iv",
+        "hard": 14,
+        "destiny": 14.8,
+        "notes": 969
+      },
+      "HD": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 9,
+        "destiny": 9.4,
+        "notes": 533
+      }
+    },
+    "songLength": "2:29",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #676.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 170.0,
+    "songAuthor": "ETIA. feat. Jenga",
+    "illustration": "わっふゑ",
+    "masterName": "On And On!!",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Rikko",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 195
+      },
+      "IN": {
+        "chartAuthor": "NerSAN feat. Takanashi Rikko",
+        "hard": 14,
+        "destiny": 14.9,
+        "notes": 830
+      },
+      "HD": {
+        "chartAuthor": "Rikko",
+        "hard": 10,
+        "destiny": 10.3,
+        "notes": 323
+      }
+    },
+    "songLength": "2:00",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1990.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 180.0,
+    "songAuthor": "Cosmograph",
+    "illustration": "Photonskyto",
+    "masterName": "DataErr0r",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "[!!12:|<|<ο!!]",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 50
+      },
+      "IN": {
+        "chartAuthor": "TangScend -Err0rederci-",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 613
+      },
+      "HD": {
+        "chartAuthor": "Rikko",
+        "hard": 11,
+        "destiny": 11.6,
+        "notes": 400
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 174.0,
+    "songAuthor": "Aoi",
+    "illustration": "Ctymax vs. TNiK feat. 出前",
+    "masterName": "c.s.q.n.",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "b.b.n.m.",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 330
+      },
+      "IN": {
+        "chartAuthor": "s.t.p.g.",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 1066
+      },
+      "HD": {
+        "chartAuthor": "h.o.m.e.e.e.",
+        "hard": 12,
+        "destiny": 12.5,
+        "notes": 755
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1040.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 192.0,
+    "songAuthor": "Turquoise(DRIVE.+Nota)",
+    "illustration": "林语",
+    "masterName": "Brave Notes",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Brave Eaimo",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 299
+      },
+      "IN": {
+        "chartAuthor": "Brave Eaimo",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 768
+      },
+      "HD": {
+        "chartAuthor": "Brave Eaimo",
+        "hard": 11,
+        "destiny": 11.4,
+        "notes": 442
+      }
+    },
+    "songLength": "1:58",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #484.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 140.0,
+    "songAuthor": "Abyss Idols",
+    "illustration": "Sak",
+    "masterName": "Eternal Snow",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 288
+      },
+      "IN": {
+        "chartAuthor": "JKy",
+        "hard": 13,
+        "destiny": 13.5,
+        "notes": 700
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM",
+        "hard": 8,
+        "destiny": 8.8,
+        "notes": 533
+      }
+    },
+    "songLength": "2:35",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1768.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 188.0,
+    "songAuthor": "Abyss Idols",
+    "illustration": "Robins",
+    "masterName": "Rainy Season",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "StupiGGy",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 304
+      },
+      "IN": {
+        "chartAuthor": "Raiky Season",
+        "hard": 14,
+        "destiny": 14.4,
+        "notes": 660
+      },
+      "HD": {
+        "chartAuthor": "StupiGGy",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 594
+      }
+    },
+    "songLength": "1:53",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #1930.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 150.0,
+    "songAuthor": "Plastic Fruits",
+    "illustration": "青鸟",
+    "masterName": "El Condor Pasa (Phigros Edit)",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "TimiTini",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 259
+      },
+      "IN": {
+        "chartAuthor": "XMT小咩兔",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 1140
+      },
+      "HD": {
+        "chartAuthor": "TimiTini",
+        "hard": 12,
+        "destiny": 12.5,
+        "notes": 585
+      }
+    },
+    "songLength": "2:12",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #919.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 185.0,
+    "songAuthor": "K-forest",
+    "illustration": "圆规Compasses",
+    "masterName": "Break Over",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 300
+      },
+      "IN": {
+        "chartAuthor": "百九十八 vs. Barbarianerman",
+        "hard": 14,
+        "destiny": 14.6,
+        "notes": 910
+      },
+      "AT": {
+        "chartAuthor": "百九十八",
+        "hard": 14,
+        "destiny": 14.9,
+        "notes": 570
+      },
+      "HD": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 11,
+        "destiny": 11.8,
+        "notes": 919
+      }
+    },
+    "songLength": "2:08",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\2.4\\Illustration #2430.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 150.0,
+    "songAuthor": "Scaler & Mestie & 果丸哒呦",
+    "illustration": "圆规compasses",
+    "masterName": "Believe Light (feat. 果丸哒呦)",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Believe Ctymax",
+        "hard": 2,
+        "destiny": 2.5,
+        "notes": 264
+      },
+      "IN": {
+        "chartAuthor": "Believe Ctymax & TimiTini",
+        "hard": 14,
+        "destiny": 14.5,
+        "notes": 972
+      },
+      "HD": {
+        "chartAuthor": "Believe TimiTini",
+        "hard": 9,
+        "destiny": 9.5,
+        "notes": 580
+      }
+    },
+    "songLength": "2:50",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #3702.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 185.0,
+    "songAuthor": "VeetaCrush vs. [itsu(feat.itsu)]",
+    "illustration": "林语",
+    "masterName": "Pont des souvenirs",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "JKy",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 461
+      },
+      "IN": {
+        "chartAuthor": "晨",
+        "hard": 15,
+        "destiny": 15.2,
+        "notes": 899
+      },
+      "HD": {
+        "chartAuthor": "JKy",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 567
+      }
+    },
+    "songLength": "2:45",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #3356.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 180.0,
+    "songAuthor": "BLACK 0",
+    "illustration": "BLACK 0",
+    "masterName": "青丘",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Ctymax",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 284
+      },
+      "IN": {
+        "chartAuthor": "KillJoy",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 1304
+      },
+      "HD": {
+        "chartAuthor": "Su1fuR",
+        "hard": 10,
+        "destiny": 10.5,
+        "notes": 534
+      }
+    },
+    "songLength": "2:47",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Sprite\\Illustration.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 215.0,
+    "songAuthor": "Ponchi♪ feat. はぁち",
+    "illustration": "LESYEF & 藍瀬 まなみ",
+    "masterName": "インフェルノシティ",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Su1fuR",
+        "hard": 5,
+        "destiny": 5.0,
+        "notes": 352
+      },
+      "IN": {
+        "chartAuthor": "Alloces",
+        "hard": 15,
+        "destiny": 15.7,
+        "notes": 1275
+      },
+      "HD": {
+        "chartAuthor": "Alloces feat. Uvernight",
+        "hard": 11,
+        "destiny": 11.2,
+        "notes": 578
+      }
+    },
+    "songLength": "2:04",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #1309.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 155.0,
+    "songAuthor": "Iriss-Frantzz",
+    "illustration": "Iriss=Frantzz=s-don",
+    "masterName": "Upshift",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Lumiere",
+        "hard": 5,
+        "destiny": 5.5,
+        "notes": 630
+      },
+      "IN": {
+        "chartAuthor": "_鉄",
+        "hard": 15,
+        "destiny": 15.3,
+        "notes": 946
+      },
+      "HD": {
+        "chartAuthor": "CorruptedEntity &野从",
+        "hard": 10,
+        "destiny": 10.8,
+        "notes": 545
+      }
+    },
+    "songLength": "2:21",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #2528.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 120.0,
+    "songAuthor": "LeaF",
+    "illustration": "笔记RE/海产",
+    "masterName": "Poison AND÷OR Affection",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "R/kko",
+        "hard": 3,
+        "destiny": 3.5,
+        "notes": 140
+      },
+      "IN": {
+        "chartAuthor": "1÷98",
+        "hard": 15,
+        "destiny": 15.5,
+        "notes": 888
+      },
+      "HD": {
+        "chartAuthor": "&ikko",
+        "hard": 9,
+        "destiny": 9.6,
+        "notes": 278
+      }
+    },
+    "songLength": "2:09",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #1273.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 132.0,
+    "songAuthor": "Sobrem × Silentroom",
+    "illustration": "Harkiadel",
+    "masterName": "Random",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 6,
+        "destiny": 6.0,
+        "notes": 275
+      },
+      "IN": {
+        "chartAuthor": "_鉄",
+        "hard": 14,
+        "destiny": 14.7,
+        "notes": 732
+      },
+      "HD": {
+        "chartAuthor": "IMD_6",
+        "hard": 11,
+        "destiny": 11.1,
+        "notes": 568
+      }
+    },
+    "songLength": "2:16",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #4596.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 240.0,
+    "songAuthor": "seatrus",
+    "illustration": "2Al4wU4",
+    "masterName": "零號車輛",
+    "names": ["零号车辆"],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "零號宇夜",
+        "hard": 7,
+        "destiny": 7.0,
+        "notes": 594
+      },
+      "IN": {
+        "chartAuthor": "Pcat【零】198",
+        "hard": 15,
+        "destiny": 15.8,
+        "notes": 1240
+      },
+      "HD": {
+        "chartAuthor": "壹號阿爽",
+        "hard": 12,
+        "destiny": 12.8,
+        "notes": 1058
+      }
+    },
+    "songLength": "2:24",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #2489.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 120.0,
+    "songAuthor": "Jade",
+    "illustration": "TNiK",
+    "masterName": "Bougainvillea",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarvillea",
+        "hard": 4,
+        "destiny": 4.0,
+        "notes": 300
+      },
+      "IN": {
+        "chartAuthor": "Barbarvillea",
+        "hard": 13,
+        "destiny": 13.4,
+        "notes": 662
+      },
+      "HD": {
+        "chartAuthor": "Barbarvillea",
+        "hard": 8,
+        "destiny": 8.3,
+        "notes": 347
+      }
+    },
+    "songLength": "1:56",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration #604.png"
+  },
+  {
+    "chapter": "单曲精选集",
+    "bpm": 158.0,
+    "songAuthor": "Roy Mikelate",
+    "illustration": "青鸟",
+    "masterName": "Now Is The Time, Do It",
+    "names": [],
+    "unlock": "花费 16.00MB 解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "M3d1uM",
+        "hard": 4,
+        "destiny": 4.5,
+        "notes": 246
+      },
+      "IN": {
+        "chartAuthor": "Pat Brick Man Mr.N feat. Ner of Time ",
+        "hard": 14,
+        "destiny": 14.3,
+        "notes": 795
+      },
+      "HD": {
+        "chartAuthor": "M3d1uM",
+        "hard": 10,
+        "destiny": 10.7,
+        "notes": 777
+      }
+    },
+    "songLength": "2:14",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Texture2D\\Illustration.png"
+  },
+  {
+    "chapter": "--",
+    "bpm": 138.0,
+    "songAuthor": "姜米條&ElousΛ.-FZ",
+    "illustration": "L-sp4",
+    "masterName": "Introduction",
+    "names": ["新手教程","梦开始的地方"],
+    "unlock": "直接解锁",
+    "from": "UNKNOWN",
+    "level": {
+      "EZ": {
+        "chartAuthor": "Barbarianerman",
+        "hard": 2,
+        "destiny": 2.0,
+        "notes": 42
+      }
+    },
+    "songLength": "2:30",
+    "illustrationPath": "D:\\phigros\\Illustration\\Illustration\\3.0\\Sprite\\Illustration #2107.png"
+  }
+]
