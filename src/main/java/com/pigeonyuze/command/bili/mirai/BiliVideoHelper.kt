@@ -23,7 +23,7 @@ import java.util.*
 object BiliVideoHelper {
     private val picFile by lazy { MozeBotCore.resolveDataFile("bili/pic") }
     private const val videoUrl = "https://api.bilibili.com/x/web-interface/view"
-
+    private const val LIGHT_APP_VIEW = "view_8C8E89B49BE609866298ADDFF2DBABA4"
     fun requestVideo(id: String): BiliVideoInfo {
         val response = if (id.startsWith("av", true)) {
             id.drop(2).toLongOrNull()?.run {
@@ -36,8 +36,7 @@ object BiliVideoHelper {
         val body0 = response.body?.string() ?: throw IllegalStateException("Cannot get response body!")
         val bodyInfo = Json.decodeFromString<BiliVideoUrlBody>(body0)
         when (BiliVideoCode.codeOf(bodyInfo.code)) {
-            SUCCEED -> { /* Nothing to do*/
-            }
+            SUCCEED -> { /* Nothing to do*/ }
             REQUEST_ERROR -> throw IllegalStateException("请求错误, ${bodyInfo.message}")
             INSUFFICIENT_PERMISSION -> throw IllegalStateException("无访问权限, ${bodyInfo.message}")
             CANNOT_FIND_OBJECT -> throw IllegalArgumentException("找不到稿件, ${bodyInfo.message}")
@@ -49,7 +48,7 @@ object BiliVideoHelper {
 
     fun parseQBiliUrl(lightApp: LightApp): BiliVideoInfo? {
         val json = Json.parseToJsonElement(lightApp.content).jsonObject
-        if (json["desc"]?.jsonPrimitive?.content != "哔哩哔哩") return null
+        if (json["view"]?.jsonPrimitive?.content != LIGHT_APP_VIEW) return null
         val unjumpedUrl = json["meta"]!!.jsonObject["detail_1"]?.jsonObject!!["qqdocurl"]?.jsonPrimitive?.content
             ?: throw IllegalStateException("Cannot find 'qqdocurl' from json: '$json'")
         val response = httpRequest(unjumpedUrl,null) // always is 'b23.tv/xxx'

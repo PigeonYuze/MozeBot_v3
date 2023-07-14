@@ -71,7 +71,7 @@ data class BiliVideoInfo(
         ${stat.argue_msg}
         播放数: $videoNum 分区: $partitionName
         ${stat.toHamanReadableString()}
-        视频上次时间: ${pushDateTime.format(dateFormatter)}
+        视频上传时间: ${pushDateTime.format(dateFormatter)}
         ${owner.toHumanReadableString()}${if (pages.isEmpty()) "" else "\n共 ${pages.size} 个分集"}
         简介:
         ${descToString()}
