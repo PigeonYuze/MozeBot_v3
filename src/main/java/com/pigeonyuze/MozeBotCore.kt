@@ -6,7 +6,10 @@ import com.pigeonyuze.command.bili.mirai.BiliVideoHelper
 import com.pigeonyuze.command.phigros.data.PhigrosSongManager
 import com.pigeonyuze.command.recreation.fb.FbTextData
 import com.pigeonyuze.handle.GroupInvitedRequest
-import com.pigeonyuze.listener.handle.*
+import com.pigeonyuze.listener.handle.DebugInfo
+import com.pigeonyuze.listener.handle.FriendRequest
+import com.pigeonyuze.listener.handle.JoinGroup
+import com.pigeonyuze.listener.handle.MemberCardChange
 import com.pigeonyuze.util.quoteTo
 import com.pigeonyuze.util.reload
 import net.mamoe.mirai.Bot
@@ -97,10 +100,10 @@ object MozeBotCore : KotlinPlugin(
         }
 
         eventChannel.subscribeAlways<MessagePreSendEvent>(priority = EventPriority.HIGH) {
-            BotSentMessageCount.handle(this)
+            com.pigeonyuze.listener.handle.BotSentMessageCount.handle(this)
         }
-        eventChannel.subscribeAlways<BotInvitedJoinGroupRequestEvent> { GroupInvitedRequest.handle(this) }
-        eventChannel.subscribeAlways<NewFriendRequestEvent> { FriendRequest.handle(this) }
+        eventChannel.subscribeAlways<BotInvitedJoinGroupRequestEvent> {  GroupInvitedRequest.handle(this) }
+        eventChannel.subscribeAlways<NewFriendRequestEvent> {  FriendRequest.handle(this) }
         eventChannel.subscribeAlways<MemberCardChangeEvent> { MemberCardChange.handle(this) }
         eventChannel.subscribeAlways<BotJoinGroupEvent> { JoinGroup.handle(this) }
         eventChannel.subscribeAlways<BotMuteEvent> { DebugInfo.mute(this) }
@@ -124,7 +127,7 @@ object MozeBotCore : KotlinPlugin(
     )
 
     override fun onDisable() {
-        UserManager.write()
+        UserManager.write(UserManager.WriteOption.CLOSE_PLUGIN)
         logger.info { "Stopped Plugin." }
         super.onDisable()
     }

@@ -1,7 +1,7 @@
 package com.pigeonyuze.command.account
 
 import com.pigeonyuze.MozeBotCore
-import com.pigeonyuze.account.ExperienceUtils
+import com.pigeonyuze.account.User.Companion.showCard
 import com.pigeonyuze.account.UserManager
 import com.pigeonyuze.util.fromQQ
 import com.pigeonyuze.util.quote
@@ -15,20 +15,6 @@ object SelfAccountInfoCommand : SimpleCommand(
     @Handler
     suspend fun handle(context: CommandContext) = context.run {
         val user = UserManager.regUserOf(fromQQ)
-        user.run {
-            if (level != ExperienceUtils.getLevel(exp)) {
-                level = ExperienceUtils.getLevel(exp)
-            }
-            quote(
-                """
-                $userName ！
-                您的账号数据如下：
-                UID: $uid
-                雨沫币: $coin 
-                注册时间: $regDate
-                等级: Lv.$level[$exp/${ExperienceUtils.getLevelExpData(level)}]
-            """.trimIndent()
-            )
-        }
+        quote(user.showCard(true))
     }
 }

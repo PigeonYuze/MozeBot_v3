@@ -5,6 +5,7 @@ import com.pigeonyuze.MozeBotCore.logger
 import net.mamoe.mirai.Bot
 import net.mamoe.mirai.contact.Group
 import net.mamoe.mirai.message.data.Message
+import net.mamoe.mirai.utils.verbose
 
 fun loggingInfo(from: String,message: String) {
     logger.info("$from: $message")
@@ -18,6 +19,14 @@ fun loggingInfo(message: () -> String) {
             ${message.invoke()}
         """.trimIndent())
     }
+}
+
+inline fun loggingDebug(message: () -> String) {
+    logger.debug(message.invoke())
+}
+
+inline fun loggingVerbose(message: () -> String) {
+    logger.verbose(message)
 }
 
 fun loggingWarn(from: String,message: String,callToGroup: Boolean = true) {
