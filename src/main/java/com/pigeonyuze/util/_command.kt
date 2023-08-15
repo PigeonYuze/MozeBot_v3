@@ -1,6 +1,8 @@
 package com.pigeonyuze.util
 
 import net.mamoe.mirai.console.command.CommandContext
+import net.mamoe.mirai.console.command.CommandSender
+import net.mamoe.mirai.console.command.SystemCommandSender
 import net.mamoe.mirai.contact.AudioSupported
 import net.mamoe.mirai.contact.Contact
 import net.mamoe.mirai.contact.Group
@@ -60,3 +62,5 @@ val CommandContext.fromQQ get() = sender.user?.id ?: -1
 val CommandContext.from get() = sender.user
 val CommandContext.bot get() = sender.bot
 val CommandContext.subject: Contact get() = sender.subject!!
+
+val CommandSender.isByConsole: Boolean get() = this is SystemCommandSender

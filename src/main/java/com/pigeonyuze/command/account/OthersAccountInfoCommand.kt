@@ -1,8 +1,7 @@
 package com.pigeonyuze.command.account
 
 import com.pigeonyuze.MozeBotCore
-import com.pigeonyuze.account.ExperienceUtils
-import com.pigeonyuze.account.User
+import com.pigeonyuze.account.User.Companion.showCard
 import com.pigeonyuze.account.UserManager
 import com.pigeonyuze.util.quote
 import net.mamoe.mirai.console.command.CommandContext
@@ -16,15 +15,8 @@ object OthersAccountInfoCommand : SimpleCommand(
     @Handler
     suspend fun handleId(commandContext: CommandContext, uidOrQQid: Long) = commandContext.run {
         quote(if (UserManager.lastUid >= uidOrQQid) {
-            UserManager[uidOrQQid.toInt()].infoMessage()
-        }else UserManager.userOf(uidOrQQid)?.infoMessage() ?: "你要寻找该用户不存在哦~")
+            UserManager[uidOrQQid.toInt()].showCard(false)
+        }else UserManager.userOf(uidOrQQid)?.showCard(false) ?: "你要寻找该用户不存在哦~")
     }
 
-    private fun User.infoMessage() = """
-        $userName 的账号数据如下：
-        UID: $uid
-        雨沫币: $coin 
-        注册时间: $regDate
-        等级: Lv.$level[$exp/${ExperienceUtils.getLevelExpData(level)}]
-    """.trimIndent()
 }
