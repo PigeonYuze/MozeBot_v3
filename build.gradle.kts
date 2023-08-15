@@ -9,7 +9,7 @@ plugins {
 }
 
 group = "com.pigeonyuze.moze-bot"
-version = "3.0.0"
+version = "1.0.1"
 
 repositories {
     maven("https://maven.aliyun.com/repository/public")
@@ -18,7 +18,8 @@ repositories {
 
 
 mirai {
-    jvmTarget = JavaVersion.VERSION_11
+    java.targetCompatibility = JavaVersion.VERSION_11
+    java.sourceCompatibility = JavaVersion.VERSION_11
 }
 
 dependencies {
