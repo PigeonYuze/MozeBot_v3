@@ -5,7 +5,7 @@ import java.time.LocalTime
 /**
  * ### 用户的实现
  * */
-interface User{
+interface User {
     val uid: Int
     val qqId: Long
     val regDate: String
@@ -31,7 +31,7 @@ interface User{
         private const val level7Data: Long = 100000
 
         fun Long.ofLevel() =
-            when(this) {
+            when (this) {
                 in 0 until level1Data -> 0
                 in level1Data until level2Data -> 1
                 in level2Data until level3Data -> 2
@@ -43,7 +43,7 @@ interface User{
             }
 
         private fun ofExp(level: Int): Long? =
-            when(level) {
+            when (level) {
                 0 -> 0
                 1 -> level1Data
                 2 -> level2Data
@@ -58,7 +58,7 @@ interface User{
 
         fun User.showCard(isBySelf: Boolean): String {
             val isMaxLevel = level == 7
-            val greetingText = when(LocalTime.now().hour) {
+            val greetingText = when (LocalTime.now().hour) {
                 in 0..4 -> "晚~~凌晨好.."
                 in 5..11 -> "早啊~"
                 in 12..14 -> "中午好！"
@@ -72,7 +72,13 @@ interface User{
                 UID: $uid
                 雨沫币: $coin 
                 注册时间: $regDate
-                等级: Lv.$level${if (isMaxLevel) " (您已经是最高等级了)" else "$[$exp/${ofExp(level+1)}]"}]
+                等级: Lv.$level${
+                if (isMaxLevel) " (${if (isBySelf) "您" else "TA"}已经是最高等级了)" else "$exp/${
+                    ofExp(
+                        level + 1
+                    )
+                }"
+            }]
             """.trimIndent()
         }
     }

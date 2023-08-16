@@ -52,12 +52,14 @@ object BiliVideoHelper {
         val unjumpedUrl = json["meta"]!!.jsonObject["detail_1"]?.jsonObject!!["qqdocurl"]?.jsonPrimitive?.content
             ?: throw IllegalStateException("Cannot find 'qqdocurl' from json: '$json'")
         val response = httpRequest(unjumpedUrl,null) // always is 'b23.tv/xxx'
-        when(response.code) {
+        return when(response.code) {
             302 -> { /* jump to 'https://www.bilibili.com/video/BV' */
                 val jumpedTarget = response.headers["Location"] ?: throw IllegalArgumentException("Cannot get jumped target url")
                 val bvid = jumpedTarget.substringAfter("https://www.bilibili.com/video/").substringBefore("?")
-                return requestVideo(bvid)
+                requestVideo(bvid)
             }
+
+            200 -> null
             in 400..600 -> throw IllegalArgumentException("Response error (Response: $response)")
             else -> throw IllegalArgumentException("Undefined code: #${response.code}($response)")
         }

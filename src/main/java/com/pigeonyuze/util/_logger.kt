@@ -12,13 +12,7 @@ fun loggingInfo(from: String,message: String) {
 }
 
 fun loggingInfo(message: () -> String) {
-    loggingInfo("",message.invoke())
-    launch {
-        debugGroup.sendMessage("""
-            !> Info Logging Message
-            ${message.invoke()}
-        """.trimIndent())
-    }
+    loggingInfo("runtime",message.invoke())
 }
 
 inline fun loggingDebug(message: () -> String) {

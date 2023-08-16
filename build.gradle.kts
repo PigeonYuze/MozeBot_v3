@@ -18,8 +18,7 @@ repositories {
 
 
 mirai {
-    java.targetCompatibility = JavaVersion.VERSION_11
-    java.sourceCompatibility = JavaVersion.VERSION_11
+    jvmTarget = JavaVersion.VERSION_11
 }
 
 dependencies {
